@@ -1,0 +1,1001 @@
+MaintAct_ID,MaintAct_Name,MaintAct_Description,MaintAct_Category,MaintAct_NumOfHours,MaintAct_TeamSize
+1,Matsoft,Hydrochoerus hydrochaeris,Misc,24,4
+2,Trippledex,Marmota flaviventris,Interior,6,6
+3,Flexidy,Streptopelia senegalensis,Exterior,4,5
+4,Stronghold,Sarkidornis melanotos,A/C,17,9
+5,Alphazap,Didelphis virginiana,Chassis,7,2
+6,Prodder,Caiman crocodilus,Interior,25,6
+7,Fintone,Madoqua kirkii,Chassis,25,10
+8,Ventosanzap,Equus hemionus,Chassis,34,2
+9,Y-Solowarm,Ateles paniscus,Electrical,46,3
+10,Gembucket,Fratercula corniculata,A/C,21,7
+11,Treeflex,Castor fiber,A/C,38,2
+12,Cardguard,Bison bison,Interior,6,9
+13,Alpha,Sula nebouxii,Interior,35,6
+14,Daltfresh,Pytilia melba,Electrical,25,2
+15,Flexidy,Nycticorax nycticorax,Misc,11,3
+16,Alphazap,Butorides striatus,Exterior,6,8
+17,Trippledex,Vanellus armatus,Misc,22,3
+18,Trippledex,Alligator mississippiensis,Exterior,7,1
+19,Namfix,Parus atricapillus,Powertrain,21,2
+20,Daltfresh,Phalacrocorax niger,Exterior,29,9
+21,Bitwolf,Carduelis pinus,Exterior,8,2
+22,Tresom,Equus burchelli,A/C,27,3
+23,Zaam-Dox,Dusicyon thous,Exterior,13,8
+24,Transcof,Alcelaphus buselaphus caama,Chassis,10,4
+25,Ronstring,Antilope cervicapra,Exterior,43,2
+26,Redhold,Hippopotamus amphibius,Exterior,37,8
+27,Mat Lam Tam,Carduelis pinus,Misc,25,1
+28,Rank,Butorides striatus,Exterior,24,4
+29,Transcof,Crotalus cerastes,Exterior,39,9
+30,Toughjoyfax,unavailable,A/C,3,4
+31,Sonsing,Ursus americanus,Interior,32,1
+32,Solarbreeze,Alcelaphus buselaphus cokii,Chassis,17,8
+33,Cardguard,Dacelo novaeguineae,Exterior,38,1
+34,Y-find,Proteles cristatus,Electrical,17,7
+35,Rank,Corvus brachyrhynchos,Powertrain,45,3
+36,Ventosanzap,Speothos vanaticus,Chassis,10,3
+37,Redhold,unavailable,Powertrain,29,3
+38,Stronghold,Gorilla gorilla,Interior,13,9
+39,Aerified,Anthropoides paradisea,A/C,25,1
+40,Bitchip,Ephippiorhynchus mycteria,A/C,42,9
+41,Job,Ursus arctos,Misc,31,5
+42,Flowdesk,Papio cynocephalus,Powertrain,26,7
+43,Cardguard,Echimys chrysurus,Misc,34,3
+44,Daltfresh,Bugeranus caruncalatus,Exterior,14,10
+45,Bigtax,Anas bahamensis,Electrical,38,4
+46,Redhold,Pycnonotus nigricans,Chassis,45,5
+47,Fix San,Ursus americanus,Exterior,3,8
+48,Solarbreeze,Zalophus californicus,Chassis,27,6
+49,Domainer,Dasypus novemcinctus,Powertrain,1,2
+50,Pannier,Aegypius tracheliotus,Misc,43,1
+51,Alphazap,Acridotheres tristis,Electrical,2,3
+52,Zaam-Dox,Phalacrocorax varius,Chassis,47,7
+53,Kanlam,Lamprotornis nitens,Interior,28,1
+54,Zontrax,Grus canadensis,Powertrain,27,10
+55,Ronstring,Alligator mississippiensis,Powertrain,17,6
+56,Job,Mellivora capensis,Powertrain,12,3
+57,Zamit,Phalacrocorax carbo,A/C,11,8
+58,Bigtax,Lasiorhinus latifrons,Chassis,34,6
+59,Prodder,Psophia viridis,Exterior,3,7
+60,Flexidy,Ardea golieth,Exterior,41,1
+61,Stim,Acanthaster planci,Powertrain,15,6
+62,Asoka,Milvus migrans,Exterior,2,8
+63,Zamit,Macaca fuscata,Misc,21,10
+64,Daltfresh,Mungos mungo,Exterior,8,6
+65,Lotlux,Corvus brachyrhynchos,Exterior,2,4
+66,Overhold,Globicephala melas,Exterior,12,6
+67,Fixflex,Francolinus coqui,Powertrain,44,4
+68,Stronghold,Erinaceus frontalis,Powertrain,5,4
+69,Daltfresh,Gyps bengalensis,Exterior,36,7
+70,Y-Solowarm,Haematopus ater,Misc,2,7
+71,Overhold,Redunca redunca,Electrical,25,2
+72,Prodder,Eubalaena australis,Chassis,2,1
+73,Sub-Ex,Loris tardigratus,Interior,11,5
+74,Temp,Arctogalidia trivirgata,Powertrain,10,7
+75,Trippledex,Phalacrocorax niger,Chassis,27,2
+76,Quo Lux,Colobus guerza,A/C,29,8
+77,Zoolab,Alcelaphus buselaphus caama,Interior,42,3
+78,Job,Thylogale stigmatica,Exterior,42,9
+79,Bamity,Salvadora hexalepis,Misc,28,9
+80,Cardguard,Tadorna tadorna,Interior,3,5
+81,Sonsing,Zenaida asiatica,Powertrain,38,6
+82,Greenlam,Falco peregrinus,Interior,40,7
+83,Asoka,Echimys chrysurus,A/C,8,7
+84,Span,Pseudalopex gymnocercus,Chassis,40,4
+85,Solarbreeze,Cochlearius cochlearius,A/C,2,3
+86,Veribet,Tayassu tajacu,Powertrain,9,4
+87,Cookley,Chelodina longicollis,Interior,27,7
+88,Cardify,Threskionis aethiopicus,Misc,26,4
+89,Stim,Papio ursinus,Electrical,4,3
+90,Subin,Conolophus subcristatus,Interior,26,7
+91,Quo Lux,Pelecans onocratalus,Chassis,49,8
+92,Wrapsafe,Tachybaptus ruficollis,Misc,44,3
+93,Cardify,Acrantophis madagascariensis,Powertrain,26,1
+94,Keylex,Ara macao,A/C,8,3
+95,Fixflex,Tachyglossus aculeatus,Electrical,37,2
+96,Hatity,Amphibolurus barbatus,Electrical,18,10
+97,Aerified,Chlidonias leucopterus,Exterior,34,5
+98,Tempsoft,Aegypius tracheliotus,Chassis,17,4
+99,Matsoft,Tamiasciurus hudsonicus,Interior,41,5
+100,Latlux,Eumetopias jubatus,Misc,8,4
+101,Y-Solowarm,Mirounga leonina,Chassis,37,2
+102,Veribet,Nycticorax nycticorax,Electrical,24,1
+103,Bytecard,Diomedea irrorata,Exterior,33,8
+104,Bigtax,Lycaon pictus,A/C,49,1
+105,Sonsing,Himantopus himantopus,Interior,20,3
+106,Sub-Ex,Tachybaptus ruficollis,Exterior,49,10
+107,Otcom,Streptopelia senegalensis,Exterior,44,9
+108,Y-find,Rhea americana,Exterior,27,8
+109,Treeflex,Canis dingo,Exterior,4,4
+110,Overhold,Butorides striatus,Misc,1,4
+111,Solarbreeze,Oreamnos americanus,A/C,17,5
+112,Lotlux,Hippotragus equinus,Chassis,10,5
+113,Voltsillam,Martes pennanti,Exterior,35,4
+114,Latlux,Choloepus hoffmani,Electrical,36,3
+115,It,Terathopius ecaudatus,Interior,50,2
+116,Sub-Ex,unavailable,Chassis,45,5
+117,Duobam,Macropus agilis,A/C,26,2
+118,Hatity,Camelus dromedarius,Electrical,47,7
+119,Sonair,Corvus albicollis,Powertrain,47,10
+120,Gembucket,Salvadora hexalepis,Exterior,28,1
+121,Subin,Ardea cinerea,Chassis,14,3
+122,Y-find,Anser anser,Electrical,15,5
+123,Sub-Ex,Larus novaehollandiae,Interior,50,9
+124,Tampflex,Mazama americana,Interior,15,4
+125,Treeflex,Terrapene carolina,Chassis,24,3
+126,Zoolab,Microcebus murinus,Powertrain,11,3
+127,Konklab,Felis caracal,Interior,12,5
+128,Daltfresh,Connochaetus taurinus,Chassis,11,2
+129,Zathin,Tachyglossus aculeatus,A/C,12,1
+130,Opela,Phalacrocorax varius,Interior,13,7
+131,Job,Centrocercus urophasianus,Electrical,6,6
+132,Bytecard,Zenaida asiatica,Electrical,19,9
+133,Cookley,Morelia spilotes variegata,Interior,26,5
+134,Trippledex,Trachyphonus vaillantii,Electrical,24,3
+135,Biodex,Pteronura brasiliensis,A/C,20,1
+136,Veribet,Herpestes javanicus,Electrical,30,8
+137,Flowdesk,unavailable,Powertrain,2,1
+138,Trippledex,Phoca vitulina,Electrical,31,2
+139,Daltfresh,Varanus sp.,Powertrain,23,3
+140,Andalax,Loxodonta africana,Chassis,12,3
+141,Domainer,Passer domesticus,Electrical,36,5
+142,Keylex,Felis rufus,Powertrain,27,8
+143,Bitchip,Nannopterum harrisi,Powertrain,8,4
+144,Opela,Ovis dalli stonei,Misc,30,3
+145,Toughjoyfax,Picoides pubescens,Electrical,28,7
+146,Latlux,Climacteris melanura,Electrical,39,10
+147,Namfix,Ardea cinerea,Exterior,1,6
+148,Latlux,Felis wiedi or Leopardus weidi,Interior,17,9
+149,Alphazap,Columba livia,Interior,4,3
+150,Ventosanzap,Acinynox jubatus,Powertrain,43,4
+151,Konklab,Psittacula krameri,Misc,28,3
+152,Cookley,Petaurus norfolcensis,Interior,36,8
+153,Andalax,Canis lupus lycaon,Chassis,32,5
+154,Job,Macaca radiata,Exterior,34,3
+155,Bytecard,Centrocercus urophasianus,A/C,36,9
+156,Namfix,Actophilornis africanus,Interior,27,2
+157,Bytecard,Cygnus atratus,Interior,43,2
+158,Tin,Lemur catta,Electrical,46,3
+159,Biodex,Tachybaptus ruficollis,Electrical,4,2
+160,Tres-Zap,Hydrochoerus hydrochaeris,Chassis,5,9
+161,Temp,Cebus apella,Powertrain,39,2
+162,Bigtax,Tamiasciurus hudsonicus,Exterior,2,4
+163,Bamity,Branta canadensis,Powertrain,39,9
+164,Sonsing,Axis axis,Exterior,18,7
+165,Opela,Madoqua kirkii,Exterior,11,4
+166,It,Ammospermophilus nelsoni,Chassis,38,6
+167,Bigtax,Fregata magnificans,A/C,49,8
+168,Daltfresh,Bassariscus astutus,Interior,32,4
+169,Sonair,Phascolarctos cinereus,Electrical,24,10
+170,Otcom,Colobus guerza,Electrical,21,4
+171,Viva,Equus burchelli,A/C,39,7
+172,Konklux,Amblyrhynchus cristatus,Electrical,16,5
+173,Treeflex,Uraeginthus granatina,Chassis,33,8
+174,Andalax,Larus sp.,Powertrain,5,10
+175,Toughjoyfax,Didelphis virginiana,A/C,44,5
+176,Duobam,Rana sp.,Electrical,43,7
+177,Y-find,Galictis vittata,A/C,8,3
+178,Treeflex,Cynomys ludovicianus,Powertrain,31,4
+179,Zaam-Dox,Merops bullockoides,Electrical,50,5
+180,Job,Sterna paradisaea,Misc,46,6
+181,Namfix,Graspus graspus,Exterior,5,1
+182,Trippledex,Felis silvestris lybica,Powertrain,6,7
+183,Prodder,Diomedea irrorata,Exterior,9,5
+184,Redhold,Mazama gouazoubira,A/C,39,6
+185,Treeflex,Trachyphonus vaillantii,Powertrain,33,9
+186,Flowdesk,Paradoxurus hermaphroditus,Powertrain,13,7
+187,Fixflex,Martes americana,Interior,49,2
+188,Voyatouch,Capreolus capreolus,Interior,18,7
+189,Fix San,Dromaeus novaehollandiae,Exterior,37,3
+190,Kanlam,Uraeginthus granatina,Electrical,20,7
+191,Veribet,Phalaropus fulicarius,Misc,34,1
+192,Sub-Ex,Rana sp.,Chassis,25,10
+193,Holdlamis,Gymnorhina tibicen,Exterior,5,9
+194,Span,Graspus graspus,Chassis,31,2
+195,Treeflex,Varanus komodensis,Interior,8,1
+196,Ventosanzap,Dipodomys deserti,A/C,7,4
+197,Namfix,Sarcophilus harrisii,Powertrain,22,1
+198,Home Ing,Tamandua tetradactyla,Powertrain,17,2
+199,Gembucket,Nasua nasua,Chassis,5,4
+200,Zontrax,Coendou prehensilis,Exterior,47,10
+201,Sonsing,Zosterops pallidus,Interior,48,5
+202,Sonsing,Dasyprocta leporina,Chassis,49,1
+203,Bitchip,Trichoglossus haematodus moluccanus,Misc,49,5
+204,Fixflex,Phalacrocorax niger,Misc,43,1
+205,Ronstring,Gekko gecko,Chassis,49,4
+206,Andalax,Aonyx cinerea,Exterior,34,9
+207,Domainer,Crax sp.,Electrical,8,5
+208,Fix San,Lepus arcticus,Powertrain,7,2
+209,Transcof,Bucephala clangula,Powertrain,43,4
+210,Sub-Ex,Crotalus triseriatus,Electrical,7,8
+211,Tin,Melanerpes erythrocephalus,Electrical,1,9
+212,Aerified,Helogale undulata,Misc,41,10
+213,Lotstring,Pelecanus occidentalis,Misc,13,2
+214,Konklab,Speotyte cuniculata,Misc,36,3
+215,Konklux,Parus atricapillus,Interior,44,4
+216,Alpha,Phalaropus lobatus,A/C,13,2
+217,Bamity,Sylvilagus floridanus,Powertrain,8,3
+218,Tres-Zap,Oreotragus oreotragus,Misc,16,7
+219,Bitwolf,Phalacrocorax carbo,Chassis,19,8
+220,Tresom,Cebus nigrivittatus,Electrical,10,8
+221,Greenlam,Tachyglossus aculeatus,Electrical,19,2
+222,It,Macropus agilis,Misc,17,8
+223,Tampflex,Macropus rufogriseus,A/C,14,1
+224,Solarbreeze,Cercopithecus aethiops,Electrical,34,1
+225,It,Centrocercus urophasianus,Chassis,49,10
+226,Holdlamis,Helogale undulata,Exterior,12,7
+227,Veribet,Canis mesomelas,Powertrain,32,9
+228,Tempsoft,Philetairus socius,Exterior,30,8
+229,Asoka,Libellula quadrimaculata,Exterior,39,6
+230,Alphazap,Tyto novaehollandiae,Chassis,9,2
+231,Alphazap,Canis aureus,Interior,49,1
+232,Bitchip,Rangifer tarandus,Interior,3,3
+233,Latlux,Gekko gecko,Electrical,8,4
+234,Stringtough,Bradypus tridactylus,Powertrain,9,2
+235,Y-Solowarm,Felis concolor,Electrical,34,9
+236,Bitchip,Mazama gouazoubira,Misc,8,1
+237,Fixflex,Boa caninus,Chassis,13,5
+238,Flexidy,Canis lupus baileyi,Exterior,21,5
+239,Asoka,unavailable,Electrical,7,3
+240,Sub-Ex,Tenrec ecaudatus,Misc,36,6
+241,Cardguard,Rhea americana,Powertrain,35,8
+242,Tin,Centrocercus urophasianus,Powertrain,28,1
+243,Latlux,Gazella thompsonii,Exterior,10,8
+244,Rank,Papio cynocephalus,Interior,15,6
+245,Alpha,Oreotragus oreotragus,Interior,22,5
+246,Fintone,Coluber constrictor foxii,Electrical,27,5
+247,Bitchip,Crotalus triseriatus,Exterior,19,10
+248,Redhold,Dasypus septemcincus,Powertrain,9,1
+249,Domainer,Vulpes chama,Misc,30,1
+250,Otcom,Chordeiles minor,Electrical,41,9
+251,Flowdesk,Odocoileus hemionus,Powertrain,24,6
+252,Zontrax,Cacatua tenuirostris,Exterior,23,1
+253,Stringtough,Felis concolor,Interior,2,2
+254,Otcom,Trichoglossus haematodus moluccanus,Interior,50,3
+255,Fixflex,Meles meles,A/C,20,8
+256,Duobam,Sarkidornis melanotos,A/C,2,8
+257,Fix San,Bugeranus caruncalatus,Misc,27,5
+258,It,Uraeginthus angolensis,Exterior,15,8
+259,Konklab,Pseudoleistes virescens,Misc,25,5
+260,Veribet,Streptopelia senegalensis,A/C,14,8
+261,Sonair,Deroptyus accipitrinus,Interior,19,9
+262,Tempsoft,Sterna paradisaea,Chassis,30,8
+263,Sub-Ex,Psophia viridis,Powertrain,46,1
+264,Fintone,Paroaria gularis,Electrical,8,7
+265,Wrapsafe,Chionis alba,Interior,14,7
+266,Matsoft,Scolopax minor,Electrical,34,6
+267,Mat Lam Tam,Bradypus tridactylus,Exterior,13,7
+268,Keylex,Litrocranius walleri,Chassis,14,9
+269,Voyatouch,Ardea cinerea,Misc,41,2
+270,Zamit,Echimys chrysurus,A/C,11,2
+271,Zathin,Leprocaulinus vipera,Chassis,3,8
+272,Keylex,Buteo galapagoensis,A/C,35,6
+273,Sonsing,Canis aureus,Interior,28,7
+274,Zamit,Phaethon aethereus,A/C,10,7
+275,Voyatouch,Columba livia,A/C,5,9
+276,Quo Lux,Ammospermophilus nelsoni,Chassis,44,7
+277,Otcom,Panthera pardus,Chassis,20,7
+278,Cardify,Centrocercus urophasianus,Interior,2,2
+279,Quo Lux,Dromaeus novaehollandiae,Exterior,41,9
+280,Stringtough,Cynomys ludovicianus,Misc,18,6
+281,Aerified,Theropithecus gelada,Interior,9,9
+282,Tampflex,Pseudocheirus peregrinus,Misc,34,5
+283,Aerified,Bucorvus leadbeateri,Electrical,16,2
+284,Duobam,Uraeginthus granatina,Interior,49,6
+285,Holdlamis,Sceloporus magister,Interior,24,10
+286,Zamit,Haliaeetus leucoryphus,Powertrain,24,4
+287,Vagram,Mycteria leucocephala,Powertrain,1,5
+288,Latlux,Xerus sp.,A/C,6,6
+289,Home Ing,Lepus arcticus,Powertrain,23,6
+290,Daltfresh,Martes americana,Chassis,46,10
+291,Duobam,Diomedea irrorata,Chassis,20,3
+292,Latlux,unavailable,Exterior,27,1
+293,Rank,Cyrtodactylus louisiadensis,Powertrain,46,7
+294,Holdlamis,Trichechus inunguis,Chassis,44,8
+295,Tempsoft,Pycnonotus nigricans,A/C,18,2
+296,Trippledex,Alcelaphus buselaphus caama,A/C,44,3
+297,Greenlam,Cebus apella,Powertrain,35,1
+298,It,Charadrius tricollaris,Interior,32,1
+299,Flexidy,Dusicyon thous,Electrical,28,2
+300,Trippledex,Cervus duvauceli,Powertrain,49,10
+301,Fintone,Cervus elaphus,Interior,37,10
+302,Cardguard,Buteo galapagoensis,A/C,12,7
+303,Stringtough,Sciurus vulgaris,Chassis,15,9
+304,Solarbreeze,Bugeranus caruncalatus,Chassis,38,4
+305,Pannier,Alligator mississippiensis,Interior,15,3
+306,Treeflex,Aonyx capensis,Exterior,40,1
+307,Sonsing,Oryx gazella,Interior,23,10
+308,Bitwolf,Eremophila alpestris,Chassis,36,1
+309,Span,Paraxerus cepapi,Misc,45,3
+310,Sonair,Phascogale calura,Interior,39,9
+311,Ronstring,Tachybaptus ruficollis,Exterior,46,8
+312,Redhold,Sarcorhamphus papa,A/C,8,2
+313,Prodder,Cebus apella,Powertrain,15,5
+314,Domainer,Petaurus breviceps,Chassis,43,6
+315,Tempsoft,Merops nubicus,Misc,8,9
+316,Bitwolf,Capreolus capreolus,Chassis,11,8
+317,Zathin,Sauromalus obesus,Electrical,47,7
+318,Lotlux,Butorides striatus,Electrical,12,2
+319,Fixflex,Lepus townsendii,A/C,44,7
+320,Zontrax,Pseudoleistes virescens,Interior,49,2
+321,Bitwolf,Butorides striatus,Electrical,15,2
+322,Wrapsafe,Perameles nasuta,Exterior,37,10
+323,Kanlam,Equus burchelli,Powertrain,43,8
+324,Matsoft,Pituophis melanaleucus,A/C,8,10
+325,Tres-Zap,Spizaetus coronatus,Chassis,41,10
+326,Hatity,Lutra canadensis,Powertrain,6,6
+327,Voltsillam,Anser caerulescens,Interior,41,4
+328,Bamity,Manouria emys,A/C,16,2
+329,Zoolab,Eutamias minimus,Interior,5,9
+330,Quo Lux,Merops sp.,Powertrain,13,9
+331,Hatity,Lemur catta,Interior,35,10
+332,Wrapsafe,Bubo sp.,Electrical,22,4
+333,Duobam,Vanessa indica,Interior,44,6
+334,Voyatouch,Mustela nigripes,Exterior,14,10
+335,Bytecard,Vanellus chilensis,Misc,16,9
+336,Quo Lux,Propithecus verreauxi,Powertrain,22,9
+337,Andalax,Macropus rufogriseus,Powertrain,31,8
+338,Veribet,Tachybaptus ruficollis,Misc,46,8
+339,Home Ing,Varanus sp.,Powertrain,30,1
+340,Pannier,Petaurus breviceps,Misc,50,7
+341,It,Tamiasciurus hudsonicus,Misc,5,2
+342,Otcom,Paraxerus cepapi,A/C,2,8
+343,Alpha,Dasypus novemcinctus,Powertrain,29,7
+344,Zaam-Dox,Spheniscus magellanicus,A/C,34,10
+345,Tresom,Dasyprocta leporina,Interior,4,5
+346,Zontrax,Antilope cervicapra,Misc,39,1
+347,Keylex,Phoca vitulina,Interior,6,9
+348,Mat Lam Tam,Castor fiber,Powertrain,43,2
+349,Biodex,Lorythaixoides concolor,Exterior,12,9
+350,Lotstring,Ploceus intermedius,Interior,12,10
+351,Cardify,unavailable,Misc,11,1
+352,Sonsing,Trachyphonus vaillantii,Chassis,35,5
+353,Overhold,Bradypus tridactylus,A/C,1,9
+354,Flexidy,Meleagris gallopavo,Chassis,26,8
+355,Overhold,Aonyx cinerea,Exterior,4,3
+356,Biodex,Vombatus ursinus,Chassis,25,10
+357,Prodder,Phasianus colchicus,Chassis,26,7
+358,Bigtax,Cygnus atratus,Exterior,5,9
+359,Pannier,Felis serval,Powertrain,20,10
+360,Greenlam,Cyrtodactylus louisiadensis,Interior,39,10
+361,Cookley,unavailable,Exterior,41,1
+362,Domainer,Anas platyrhynchos,Exterior,24,8
+363,Namfix,Kobus defassa,Misc,48,2
+364,Konklab,Coluber constrictor,Powertrain,38,4
+365,Viva,Trichosurus vulpecula,Powertrain,49,7
+366,Sonsing,Coendou prehensilis,Chassis,12,9
+367,Asoka,Equus hemionus,Powertrain,37,5
+368,Daltfresh,Ciconia ciconia,Misc,39,4
+369,Voyatouch,Porphyrio porphyrio,Exterior,35,3
+370,Holdlamis,unavailable,Misc,27,3
+371,Zontrax,Anser anser,Electrical,5,4
+372,Viva,Lycaon pictus,Exterior,16,1
+373,Biodex,Colobus guerza,Interior,6,9
+374,Fixflex,Numida meleagris,Chassis,20,9
+375,Transcof,Dasypus novemcinctus,A/C,23,10
+376,Y-find,Ara ararauna,Interior,21,3
+377,Solarbreeze,Sciurus vulgaris,A/C,13,2
+378,Treeflex,Paradoxurus hermaphroditus,Electrical,47,7
+379,Hatity,Phalaropus lobatus,Chassis,42,7
+380,Biodex,Branta canadensis,Exterior,20,8
+381,Bamity,Pycnonotus barbatus,Exterior,30,9
+382,Zoolab,Haematopus ater,Interior,34,8
+383,Ventosanzap,Acrantophis madagascariensis,Powertrain,27,4
+384,Opela,Coluber constrictor,A/C,50,2
+385,Stim,Vulpes vulpes,A/C,50,6
+386,Sonsing,Recurvirostra avosetta,A/C,9,2
+387,It,Himantopus himantopus,Exterior,46,2
+388,Zoolab,Macaca mulatta,Electrical,37,9
+389,Bitchip,Macropus rufus,Powertrain,24,6
+390,Sonsing,Tursiops truncatus,Exterior,6,8
+391,Bigtax,Anthropoides paradisea,Powertrain,25,6
+392,Pannier,Kobus defassa,Misc,34,8
+393,Flexidy,Pelecans onocratalus,Chassis,42,4
+394,Span,Isoodon obesulus,Misc,38,5
+395,Ronstring,Pycnonotus nigricans,Exterior,2,10
+396,Rank,Ploceus rubiginosus,Chassis,22,4
+397,Voyatouch,Hippopotamus amphibius,Misc,35,1
+398,Hatity,Erinaceus frontalis,Powertrain,43,3
+399,Duobam,Graspus graspus,Interior,43,8
+400,Bamity,Colaptes campestroides,Exterior,27,1
+401,Domainer,Corvus brachyrhynchos,Electrical,16,5
+402,Alphazap,Redunca redunca,Chassis,15,5
+403,Vagram,Hymenolaimus malacorhynchus,A/C,21,4
+404,Gembucket,Nasua narica,Electrical,4,6
+405,Stim,Chauna torquata,Misc,45,3
+406,Sonsing,Amblyrhynchus cristatus,Exterior,42,8
+407,Sonair,Felis wiedi or Leopardus weidi,Exterior,47,2
+408,Overhold,Platalea leucordia,A/C,2,3
+409,Stim,Acrobates pygmaeus,Exterior,6,9
+410,Tres-Zap,Eunectes sp.,Interior,24,5
+411,Stim,Lepus townsendii,Powertrain,9,9
+412,Quo Lux,Larus dominicanus,Misc,6,10
+413,Sonair,Ovis musimon,Misc,48,2
+414,Trippledex,unavailable,Interior,25,5
+415,Stronghold,Bassariscus astutus,Interior,25,8
+416,Fixflex,Eudyptula minor,Exterior,49,1
+417,Greenlam,Uraeginthus granatina,Interior,14,3
+418,Span,Isoodon obesulus,Misc,48,3
+419,Sub-Ex,Nasua nasua,Powertrain,16,6
+420,Aerified,Manouria emys,Powertrain,14,2
+421,Keylex,Dicrostonyx groenlandicus,Chassis,49,3
+422,Span,Ciconia ciconia,A/C,11,2
+423,Toughjoyfax,Diomedea irrorata,Chassis,16,2
+424,Kanlam,Tayassu pecari,Exterior,40,8
+425,Viva,Leptoptilos crumeniferus,Chassis,32,4
+426,Vagram,Phaethon aethereus,A/C,14,7
+427,Cardguard,Macropus giganteus,Electrical,32,8
+428,Konklux,Marmota monax,Misc,24,8
+429,Sonair,Cervus canadensis,Chassis,26,4
+430,Stringtough,Pseudalopex gymnocercus,Interior,6,6
+431,Span,Kobus leche robertsi,Interior,28,8
+432,Overhold,Vombatus ursinus,Exterior,25,8
+433,Tampflex,Spermophilus lateralis,Chassis,43,1
+434,Andalax,Lybius torquatus,Interior,4,9
+435,Tresom,Milvago chimachima,Exterior,19,7
+436,Keylex,Vulpes cinereoargenteus,Chassis,35,1
+437,Stringtough,Canis lupus,Interior,6,2
+438,Home Ing,Papio cynocephalus,Powertrain,47,10
+439,Bitchip,Spermophilus lateralis,Powertrain,24,4
+440,Flexidy,Dacelo novaeguineae,Interior,14,2
+441,Toughjoyfax,Porphyrio porphyrio,Interior,37,10
+442,Voltsillam,Bubalornis niger,Chassis,34,7
+443,Subin,Genetta genetta,Chassis,14,5
+444,Span,Acridotheres tristis,Exterior,48,2
+445,Overhold,Pseudalopex gymnocercus,Exterior,28,3
+446,Namfix,Dasyurus maculatus,Chassis,30,9
+447,Cardguard,Dicrostonyx groenlandicus,Interior,41,5
+448,Bytecard,Canis aureus,Exterior,16,2
+449,Zontrax,Arctogalidia trivirgata,Exterior,10,3
+450,Quo Lux,Otaria flavescens,Interior,46,5
+451,Bitwolf,Ardea golieth,Chassis,49,5
+452,Prodder,Spizaetus coronatus,Electrical,1,3
+453,Kanlam,Creagrus furcatus,Chassis,37,4
+454,Kanlam,Ninox superciliaris,Interior,21,4
+455,Cookley,Aonyx capensis,Misc,14,9
+456,Job,Recurvirostra avosetta,Powertrain,36,2
+457,Y-Solowarm,Macropus fuliginosus,A/C,21,1
+458,Job,Climacteris melanura,Interior,18,1
+459,Bitchip,Ceratotherium simum,Misc,12,1
+460,Cookley,Macropus agilis,Electrical,8,8
+461,Kanlam,Dusicyon thous,Powertrain,4,9
+462,Cardguard,Eolophus roseicapillus,Exterior,44,10
+463,Viva,Junonia genoveua,Powertrain,46,2
+464,Solarbreeze,Recurvirostra avosetta,A/C,6,1
+465,Trippledex,Philetairus socius,Exterior,28,5
+466,Tresom,Zonotrichia capensis,Chassis,42,7
+467,Temp,Genetta genetta,A/C,36,6
+468,Opela,Aquila chrysaetos,Chassis,45,10
+469,Span,Eutamias minimus,Interior,26,2
+470,Prodder,Varanus komodensis,Interior,44,2
+471,Sonsing,Columba livia,Powertrain,40,6
+472,Mat Lam Tam,Bettongia penicillata,Misc,12,8
+473,Sonsing,Neophoca cinerea,A/C,21,1
+474,Lotstring,Naja haje,Exterior,30,10
+475,Job,Aegypius tracheliotus,Powertrain,15,3
+476,Kanlam,Oryx gazella callotis,Chassis,50,4
+477,Pannier,Hippotragus equinus,Misc,19,6
+478,Stringtough,Struthio camelus,Exterior,46,7
+479,Transcof,Myrmecophaga tridactyla,Chassis,6,6
+480,Alphazap,Bettongia penicillata,Chassis,44,10
+481,Temp,Anastomus oscitans,Misc,11,7
+482,Tampflex,Leptoptilus dubius,Misc,10,7
+483,Voyatouch,Nyctanassa violacea,Exterior,45,1
+484,Toughjoyfax,Otaria flavescens,Exterior,10,6
+485,Zontrax,Phalacrocorax niger,Chassis,44,4
+486,Transcof,Certotrichas paena,Electrical,23,2
+487,Stronghold,Dendrocitta vagabunda,Misc,39,3
+488,Voyatouch,Erethizon dorsatum,Misc,24,4
+489,Tresom,Ardea golieth,Powertrain,21,1
+490,Veribet,Phascolarctos cinereus,Interior,26,4
+491,Zamit,Helogale undulata,Powertrain,20,3
+492,Bigtax,Ictalurus furcatus,Chassis,13,10
+493,Alphazap,Myiarchus tuberculifer,Interior,10,2
+494,Pannier,Tayassu pecari,Powertrain,20,6
+495,Redhold,Threskionis aethiopicus,Interior,32,4
+496,Asoka,Orcinus orca,Electrical,32,8
+497,Bitwolf,Aonyx capensis,Electrical,26,2
+498,Matsoft,Columba livia,Misc,16,3
+499,Bitwolf,Corvus brachyrhynchos,Chassis,22,5
+500,Aerified,Corvus brachyrhynchos,Misc,39,9
+501,Vagram,Acrobates pygmaeus,Chassis,43,2
+502,Temp,Francolinus leucoscepus,Electrical,5,5
+503,Transcof,Ovis canadensis,Electrical,49,6
+504,Ventosanzap,unavailable,Exterior,45,1
+505,Konklab,Coendou prehensilis,Electrical,45,6
+506,Pannier,Dasypus septemcincus,Misc,37,4
+507,Pannier,Chionis alba,Interior,19,3
+508,Zontrax,Sarcophilus harrisii,Chassis,21,4
+509,Zamit,Pseudocheirus peregrinus,Electrical,29,1
+510,Daltfresh,Colobus guerza,Electrical,39,5
+511,Subin,Corvus albicollis,Powertrain,12,7
+512,Mat Lam Tam,Felis libyca,Exterior,8,2
+513,Vagram,Pseudalopex gymnocercus,Chassis,21,2
+514,Veribet,Cebus nigrivittatus,Interior,32,8
+515,Redhold,Tetracerus quadricornis,Electrical,42,6
+516,Fix San,Dasypus novemcinctus,Electrical,20,5
+517,Otcom,Centrocercus urophasianus,Electrical,19,9
+518,Veribet,Speothos vanaticus,Powertrain,21,2
+519,Ronstring,Macropus robustus,A/C,20,6
+520,Flexidy,Plectopterus gambensis,Powertrain,50,1
+521,Andalax,Sciurus vulgaris,Chassis,21,5
+522,Job,Rana sp.,A/C,9,9
+523,Cardguard,Echimys chrysurus,Electrical,21,2
+524,Sonsing,Butorides striatus,Electrical,25,2
+525,Treeflex,Lorythaixoides concolor,A/C,7,8
+526,Alpha,Phascogale calura,Chassis,38,7
+527,Lotstring,Ursus arctos,Powertrain,10,5
+528,Flowdesk,Trachyphonus vaillantii,Electrical,23,4
+529,Stringtough,Cervus unicolor,A/C,39,5
+530,Holdlamis,Ceratotherium simum,Powertrain,41,3
+531,Keylex,Aegypius tracheliotus,Powertrain,42,6
+532,Home Ing,Ovibos moschatus,Chassis,18,9
+533,Home Ing,Pelecanus occidentalis,Interior,24,9
+534,Biodex,Gyps bengalensis,Exterior,20,10
+535,Fintone,Ovis ammon,Interior,23,4
+536,Cardguard,Butorides striatus,A/C,3,3
+537,Span,Panthera leo,Exterior,32,7
+538,Asoka,Oxybelis fulgidus,A/C,35,1
+539,Zontrax,Crotalus cerastes,Exterior,17,8
+540,Bamity,Himantopus himantopus,Misc,26,2
+541,Pannier,Erinaceus frontalis,Misc,7,5
+542,Zontrax,Alcelaphus buselaphus caama,A/C,5,6
+543,Tres-Zap,Panthera pardus,Powertrain,21,5
+544,Zontrax,Trachyphonus vaillantii,Misc,42,4
+545,Alpha,Lasiodora parahybana,Electrical,14,1
+546,Mat Lam Tam,Catharacta skua,A/C,27,5
+547,Zamit,Sarkidornis melanotos,Misc,46,9
+548,Matsoft,Lepus townsendii,Chassis,46,7
+549,It,Lamprotornis superbus,A/C,1,3
+550,Tres-Zap,Caiman crocodilus,Exterior,27,7
+551,Temp,Galictis vittata,Powertrain,50,6
+552,Tresom,Lybius torquatus,Interior,15,6
+553,Tampflex,Stenella coeruleoalba,Electrical,21,8
+554,Konklux,Tachybaptus ruficollis,Misc,39,5
+555,Stim,Thylogale stigmatica,Misc,40,4
+556,Zamit,Creagrus furcatus,Chassis,10,5
+557,Fix San,Coluber constrictor,A/C,8,5
+558,Holdlamis,Ephippiorhynchus mycteria,A/C,21,2
+559,Biodex,Ciconia episcopus,Exterior,32,10
+560,Alphazap,Struthio camelus,Powertrain,22,4
+561,Wrapsafe,Nasua narica,Chassis,23,2
+562,Stim,Sarkidornis melanotos,Powertrain,7,6
+563,Andalax,Felis caracal,Misc,43,3
+564,Daltfresh,Hystrix indica,Powertrain,21,7
+565,Bitwolf,Nasua narica,A/C,32,7
+566,Pannier,Paroaria gularis,Electrical,39,2
+567,Subin,Bassariscus astutus,Exterior,8,10
+568,It,Oreamnos americanus,A/C,42,7
+569,Vagram,Bubulcus ibis,Exterior,42,7
+570,Greenlam,Pelecanus occidentalis,A/C,21,2
+571,Solarbreeze,Ovis orientalis,A/C,14,1
+572,Bamity,Pandon haliaetus,A/C,39,6
+573,Otcom,Gymnorhina tibicen,Powertrain,18,9
+574,Lotstring,Mirounga leonina,Electrical,36,10
+575,Temp,Streptopelia senegalensis,A/C,22,5
+576,Cardify,Cochlearius cochlearius,Interior,13,7
+577,Tempsoft,Uraeginthus granatina,Powertrain,27,6
+578,Lotlux,Felis silvestris lybica,Electrical,39,8
+579,Transcof,Zonotrichia capensis,Powertrain,47,1
+580,Prodder,Alligator mississippiensis,A/C,30,4
+581,Fixflex,Thylogale stigmatica,Powertrain,23,5
+582,Asoka,Butorides striatus,Powertrain,22,5
+583,Wrapsafe,Butorides striatus,Electrical,12,1
+584,Namfix,Papilio canadensis,Interior,49,6
+585,Fix San,Macropus robustus,A/C,49,4
+586,Matsoft,Aepyceros mylampus,A/C,16,2
+587,Mat Lam Tam,Merops nubicus,A/C,42,10
+588,Pannier,Stenella coeruleoalba,Interior,47,4
+589,Solarbreeze,Macropus robustus,Exterior,35,9
+590,Tresom,Marmota monax,A/C,45,1
+591,Voyatouch,unavailable,Electrical,46,6
+592,Prodder,Eolophus roseicapillus,Electrical,13,1
+593,Cookley,Cracticus nigroagularis,Interior,17,6
+594,Greenlam,Sus scrofa,A/C,10,2
+595,Zontrax,Aonyx cinerea,Interior,36,9
+596,Lotlux,Lepus townsendii,Exterior,31,4
+597,Daltfresh,Manouria emys,Exterior,34,3
+598,Otcom,Crocuta crocuta,Misc,24,9
+599,Job,Bettongia penicillata,Interior,6,1
+600,Tampflex,Pycnonotus nigricans,Electrical,50,5
+601,Fix San,Haliaetus leucogaster,Misc,27,4
+602,Trippledex,Streptopelia senegalensis,Powertrain,25,7
+603,Otcom,Haematopus ater,Interior,9,4
+604,Vagram,Aonyx cinerea,Misc,19,2
+605,Alpha,Mustela nigripes,A/C,22,8
+606,Viva,Leptoptilos crumeniferus,Interior,33,7
+607,Subin,Phoenicopterus chilensis,A/C,11,4
+608,Tampflex,Connochaetus taurinus,Powertrain,42,3
+609,Job,Acrobates pygmaeus,Misc,8,4
+610,Hatity,Trichoglossus chlorolepidotus,Interior,6,7
+611,Stronghold,Phalacrocorax varius,Chassis,1,9
+612,Rank,Isoodon obesulus,Electrical,11,7
+613,Zathin,Pytilia melba,Interior,50,1
+614,Matsoft,Ara chloroptera,Misc,30,3
+615,Bitchip,Phoenicopterus ruber,Powertrain,44,10
+616,Asoka,Microcebus murinus,Chassis,25,9
+617,Hatity,Grus antigone,Exterior,38,5
+618,Fix San,Falco peregrinus,Electrical,45,10
+619,Pannier,Herpestes javanicus,A/C,16,2
+620,Overhold,Zenaida asiatica,A/C,26,4
+621,Zontrax,Canis lupus,Misc,11,8
+622,Temp,Crotalus cerastes,Exterior,21,4
+623,Voyatouch,Lamprotornis nitens,A/C,1,5
+624,Sub-Ex,Nyctereutes procyonoides,Interior,27,5
+625,Bigtax,Philetairus socius,Electrical,36,4
+626,Sonsing,Corvus albus,Misc,32,6
+627,Bigtax,Hyaena hyaena,Chassis,2,5
+628,Zoolab,Varanus salvator,Interior,12,8
+629,Solarbreeze,Spheniscus mendiculus,Chassis,39,4
+630,Zontrax,Semnopithecus entellus,Interior,48,10
+631,Voltsillam,Lorythaixoides concolor,Electrical,19,2
+632,Bitchip,Equus burchelli,Interior,37,3
+633,Home Ing,Trichoglossus haematodus moluccanus,Powertrain,25,5
+634,Konklab,Ovis ammon,Powertrain,43,3
+635,Viva,Bison bison,A/C,47,1
+636,Tampflex,Eira barbata,Electrical,42,1
+637,Fixflex,Prionace glauca,Interior,23,8
+638,Sonair,Egretta thula,A/C,26,8
+639,Sub-Ex,Corvus brachyrhynchos,Electrical,14,4
+640,Toughjoyfax,unavailable,Powertrain,23,4
+641,Flowdesk,Rangifer tarandus,A/C,46,2
+642,Tresom,Canis aureus,Powertrain,39,9
+643,Gembucket,Hystrix cristata,Exterior,37,4
+644,Tempsoft,Ceratotherium simum,Interior,27,6
+645,Prodder,Tachyglossus aculeatus,Misc,13,9
+646,Fixflex,Procyon cancrivorus,Chassis,47,1
+647,Matsoft,Cygnus atratus,Chassis,35,1
+648,Bytecard,Coluber constrictor,Chassis,8,4
+649,Bamity,Trichosurus vulpecula,Powertrain,50,9
+650,Hatity,Meles meles,Chassis,7,8
+651,Tin,Pandon haliaetus,Chassis,19,5
+652,Tresom,Mungos mungo,A/C,7,4
+653,Zontrax,Acridotheres tristis,Electrical,3,8
+654,Y-find,Platalea leucordia,Misc,7,8
+655,Trippledex,Chauna torquata,A/C,3,8
+656,Zathin,Phalaropus fulicarius,Exterior,3,3
+657,Mat Lam Tam,Lasiorhinus latifrons,Misc,10,4
+658,Treeflex,Myotis lucifugus,Exterior,50,1
+659,Tin,Antidorcas marsupialis,Powertrain,38,7
+660,Aerified,Galictis vittata,Interior,12,8
+661,Ronstring,Zenaida galapagoensis,Misc,16,9
+662,Tampflex,Pseudocheirus peregrinus,A/C,20,3
+663,Quo Lux,Bos taurus,Interior,27,3
+664,Toughjoyfax,Macropus fuliginosus,Interior,17,8
+665,Matsoft,Felis yagouaroundi,Powertrain,24,2
+666,Flexidy,Arctogalidia trivirgata,Misc,28,8
+667,Stronghold,Eumetopias jubatus,Electrical,34,1
+668,Asoka,Colaptes campestroides,Exterior,5,9
+669,Lotlux,Phalacrocorax niger,Powertrain,49,7
+670,Job,unavailable,Interior,32,8
+671,Overhold,Melursus ursinus,Interior,44,2
+672,Trippledex,Cynictis penicillata,Chassis,34,1
+673,Daltfresh,Streptopelia senegalensis,Powertrain,47,9
+674,Konklux,Otaria flavescens,Chassis,33,5
+675,Cardguard,Panthera leo persica,Powertrain,11,4
+676,Latlux,Mycteria ibis,Powertrain,31,10
+677,Solarbreeze,unavailable,Chassis,17,4
+678,Fix San,Martes americana,Misc,18,7
+679,Y-Solowarm,Paroaria gularis,A/C,6,9
+680,Ronstring,Streptopelia senegalensis,Exterior,16,9
+681,Konklab,Sciurus vulgaris,Interior,46,7
+682,Zathin,Bradypus tridactylus,Electrical,2,2
+683,Tempsoft,Melursus ursinus,Electrical,29,7
+684,Daltfresh,Ephipplorhynchus senegalensis,A/C,50,8
+685,Cookley,Acrobates pygmaeus,Chassis,49,5
+686,Asoka,Terathopius ecaudatus,A/C,15,2
+687,Matsoft,Podargus strigoides,Chassis,35,2
+688,Stim,Melursus ursinus,Exterior,13,2
+689,Namfix,Tachyglossus aculeatus,A/C,16,7
+690,Duobam,Ara chloroptera,A/C,44,6
+691,Wrapsafe,Pituophis melanaleucus,Exterior,11,1
+692,Zaam-Dox,Lepus townsendii,Exterior,2,6
+693,Stim,Dicrostonyx groenlandicus,Chassis,16,2
+694,Lotlux,Butorides striatus,Electrical,39,6
+695,Solarbreeze,Sciurus vulgaris,Interior,5,3
+696,Stringtough,Cynictis penicillata,Powertrain,35,2
+697,Zontrax,Butorides striatus,Electrical,1,7
+698,Overhold,Vulpes cinereoargenteus,Misc,21,8
+699,Flexidy,Ratufa indica,Misc,41,8
+700,Matsoft,Ardea cinerea,Interior,30,7
+701,Zoolab,Paraxerus cepapi,Electrical,49,6
+702,Vagram,Threskionis aethiopicus,Misc,48,9
+703,Ventosanzap,Felis rufus,Exterior,25,1
+704,Home Ing,Meles meles,Powertrain,19,4
+705,Y-find,Ovis dalli stonei,Interior,30,6
+706,Vagram,Myrmecophaga tridactyla,Misc,38,6
+707,Biodex,Ardea golieth,Misc,43,7
+708,Rank,Tringa glareola,Interior,25,10
+709,Stim,Sarkidornis melanotos,Chassis,3,9
+710,Matsoft,Lamprotornis nitens,Exterior,29,2
+711,Matsoft,Spermophilus tridecemlineatus,Misc,28,10
+712,Treeflex,Antilope cervicapra,Misc,46,3
+713,Ronstring,Tockus flavirostris,Electrical,19,9
+714,Tampflex,Pteronura brasiliensis,Exterior,11,8
+715,Kanlam,Vanellus armatus,Powertrain,45,6
+716,Voyatouch,Mirounga angustirostris,Exterior,47,10
+717,Flowdesk,Phoenicopterus chilensis,Chassis,34,4
+718,Toughjoyfax,Felis caracal,Powertrain,20,4
+719,Zathin,Chelodina longicollis,Exterior,9,4
+720,Redhold,Melanerpes erythrocephalus,Chassis,11,6
+721,Aerified,Varanus sp.,Powertrain,32,6
+722,Bytecard,Climacteris melanura,Interior,46,7
+723,Namfix,Canis mesomelas,Misc,20,8
+724,Voltsillam,Physignathus cocincinus,Exterior,23,4
+725,Home Ing,Ara ararauna,Interior,35,10
+726,Bigtax,Eubalaena australis,Chassis,28,1
+727,Tresom,Varanus komodensis,Exterior,39,5
+728,Opela,Gerbillus sp.,Misc,1,2
+729,Span,Choriotis kori,Electrical,8,5
+730,Zaam-Dox,Loxodonta africana,Powertrain,4,3
+731,Zathin,Geococcyx californianus,Misc,4,1
+732,Voltsillam,Theropithecus gelada,A/C,3,8
+733,Rank,Felis wiedi or Leopardus weidi,Interior,7,5
+734,Toughjoyfax,Tenrec ecaudatus,Exterior,44,9
+735,Zontrax,Ephipplorhynchus senegalensis,Interior,15,10
+736,Y-Solowarm,Laniarius ferrugineus,Exterior,31,5
+737,Job,Macropus robustus,A/C,18,8
+738,Domainer,Cacatua galerita,Misc,45,2
+739,Hatity,Spermophilus tridecemlineatus,A/C,18,6
+740,Vagram,Phalacrocorax carbo,Electrical,46,4
+741,Sonair,Uraeginthus angolensis,Chassis,16,10
+742,Redhold,Columba livia,Misc,22,1
+743,Greenlam,Erethizon dorsatum,Misc,46,9
+744,Sonair,Nyctea scandiaca,Misc,32,4
+745,Home Ing,Tachyglossus aculeatus,Interior,40,7
+746,Zoolab,Lemur fulvus,Exterior,4,2
+747,Y-find,Gymnorhina tibicen,Chassis,36,10
+748,Zaam-Dox,Acrantophis madagascariensis,Chassis,48,2
+749,Sonair,unavailable,Electrical,41,7
+750,Keylex,Anathana ellioti,Exterior,12,3
+751,Fix San,Felis concolor,Interior,29,7
+752,Lotlux,Bettongia penicillata,Interior,31,1
+753,Subin,Canis mesomelas,Electrical,12,4
+754,Bamity,Macaca mulatta,Misc,14,3
+755,Fixflex,Ploceus rubiginosus,Electrical,29,3
+756,Lotstring,Thamnolaea cinnmomeiventris,Exterior,35,9
+757,Flowdesk,Sylvicapra grimma,Electrical,31,3
+758,Prodder,Larus novaehollandiae,Misc,37,1
+759,Zontrax,Macropus eugenii,Chassis,38,1
+760,Mat Lam Tam,Aquila chrysaetos,Powertrain,9,1
+761,Transcof,Thylogale stigmatica,Misc,44,6
+762,Flowdesk,Felis chaus,Misc,21,5
+763,Keylex,Ammospermophilus nelsoni,Exterior,36,6
+764,Tin,Parus atricapillus,Chassis,24,3
+765,Matsoft,Platalea leucordia,Misc,20,10
+766,It,Chelodina longicollis,Interior,37,10
+767,Temp,unavailable,Misc,16,6
+768,Wrapsafe,Streptopelia senegalensis,Chassis,48,5
+769,Namfix,Libellula quadrimaculata,A/C,2,8
+770,Bitchip,Felis concolor,Chassis,32,3
+771,Stronghold,Felis caracal,Powertrain,34,10
+772,Bytecard,Ploceus rubiginosus,Powertrain,25,3
+773,Y-Solowarm,Eumetopias jubatus,Electrical,24,4
+774,It,Ceratotherium simum,Electrical,1,5
+775,Biodex,Ursus americanus,Exterior,6,9
+776,Asoka,Haematopus ater,A/C,3,2
+777,Viva,Pelecanus conspicillatus,Exterior,21,8
+778,Bytecard,Phalaropus lobatus,Chassis,6,1
+779,Alphazap,Varanus sp.,A/C,3,10
+780,Bitwolf,Hystrix indica,Misc,10,7
+781,Veribet,unavailable,Exterior,34,6
+782,Overhold,Semnopithecus entellus,Interior,49,4
+783,Holdlamis,Papio cynocephalus,A/C,16,1
+784,Konklab,Acridotheres tristis,Chassis,8,9
+785,Fintone,Colobus guerza,Chassis,19,5
+786,Voltsillam,Meleagris gallopavo,Powertrain,14,3
+787,Bitwolf,Anathana ellioti,Electrical,20,4
+788,Tempsoft,Plectopterus gambensis,Chassis,9,6
+789,Ventosanzap,Varanus sp.,A/C,24,1
+790,Stringtough,Anastomus oscitans,Interior,17,8
+791,Treeflex,Trichosurus vulpecula,Chassis,39,2
+792,Bytecard,Genetta genetta,Exterior,16,10
+793,Konklab,Gekko gecko,Interior,20,2
+794,Wrapsafe,Macropus rufogriseus,Powertrain,50,7
+795,Home Ing,Didelphis virginiana,Electrical,7,2
+796,Stringtough,Phalaropus fulicarius,Electrical,6,10
+797,Zathin,Myrmecophaga tridactyla,A/C,44,3
+798,Job,Dicrurus adsimilis,Powertrain,2,2
+799,Andalax,Lemur fulvus,Misc,33,1
+800,Solarbreeze,Felis concolor,Electrical,18,1
+801,Opela,Dicrostonyx groenlandicus,A/C,23,4
+802,Regrant,Upupa epops,Powertrain,35,10
+803,Bigtax,Lamprotornis nitens,A/C,50,6
+804,Ventosanzap,Aonyx capensis,A/C,48,8
+805,Latlux,Libellula quadrimaculata,Exterior,21,10
+806,Zamit,Phalaropus lobatus,Powertrain,40,3
+807,Duobam,Ctenophorus ornatus,Interior,9,4
+808,Cardify,Carduelis uropygialis,Powertrain,5,8
+809,Vagram,Psophia viridis,Interior,20,4
+810,Domainer,Phaethon aethereus,Electrical,20,8
+811,Subin,Pteronura brasiliensis,Exterior,36,3
+812,Aerified,Zosterops pallidus,Chassis,50,6
+813,Hatity,Dicrostonyx groenlandicus,A/C,40,4
+814,Lotlux,Dusicyon thous,Electrical,38,2
+815,Temp,Felis silvestris lybica,Exterior,9,6
+816,Holdlamis,Spizaetus coronatus,Exterior,18,10
+817,Keylex,Ctenophorus ornatus,Misc,13,5
+818,Ventosanzap,Thalasseus maximus,Interior,6,3
+819,Bitwolf,Semnopithecus entellus,Exterior,46,10
+820,Biodex,Branta canadensis,Interior,1,6
+821,Stronghold,Coluber constrictor,Exterior,20,10
+822,Greenlam,Melursus ursinus,Powertrain,31,10
+823,Span,Gopherus agassizii,Interior,45,9
+824,Redhold,Alcelaphus buselaphus cokii,Exterior,42,10
+825,Bitchip,Sarkidornis melanotos,A/C,11,1
+826,Konklux,Acrantophis madagascariensis,Powertrain,8,4
+827,Overhold,Deroptyus accipitrinus,A/C,49,8
+828,Fix San,Felis concolor,Interior,50,1
+829,Overhold,Echimys chrysurus,Exterior,38,5
+830,Cardguard,Boa caninus,A/C,46,9
+831,Job,unavailable,Powertrain,10,9
+832,Overhold,Chamaelo sp.,A/C,29,4
+833,Domainer,Nannopterum harrisi,Electrical,42,5
+834,Otcom,Chlidonias leucopterus,Chassis,36,8
+835,Tresom,Neotoma sp.,Chassis,17,9
+836,Temp,Merops sp.,Chassis,2,6
+837,Voltsillam,Leptoptilus dubius,Electrical,28,1
+838,Asoka,Marmota monax,Powertrain,2,9
+839,Redhold,Bubalus arnee,Exterior,34,2
+840,Ventosanzap,Tadorna tadorna,Interior,1,9
+841,Bigtax,Boselaphus tragocamelus,Misc,21,3
+842,Alpha,Odocoilenaus virginianus,Powertrain,44,9
+843,Fix San,Tyto novaehollandiae,Powertrain,3,3
+844,Greenlam,Macropus rufogriseus,A/C,8,10
+845,Sonair,Eumetopias jubatus,Interior,38,3
+846,Voyatouch,Gabianus pacificus,A/C,20,4
+847,Fixflex,Spizaetus coronatus,Electrical,44,1
+848,It,Kobus leche robertsi,Interior,4,3
+849,Fix San,Priodontes maximus,Chassis,21,3
+850,Zathin,Climacteris melanura,Interior,30,9
+851,Fixflex,Caiman crocodilus,Powertrain,9,3
+852,Job,Centrocercus urophasianus,Electrical,16,2
+853,Namfix,Sagittarius serpentarius,Electrical,46,9
+854,Veribet,Phalaropus lobatus,Powertrain,42,9
+855,Trippledex,Paraxerus cepapi,Misc,46,8
+856,Home Ing,Mirounga angustirostris,Misc,12,9
+857,Temp,Mazama gouazoubira,Chassis,45,5
+858,Hatity,Pterocles gutturalis,Electrical,1,2
+859,Zamit,Oxybelis sp.,Interior,2,9
+860,Viva,Trichoglossus haematodus moluccanus,Exterior,36,5
+861,Tresom,Varanus salvator,Chassis,47,9
+862,Zontrax,Sarcophilus harrisii,Chassis,20,8
+863,Duobam,Tyto novaehollandiae,Chassis,21,7
+864,Tresom,Coluber constrictor foxii,Exterior,33,1
+865,Tresom,Leptoptilos crumeniferus,Chassis,1,5
+866,Matsoft,Tadorna tadorna,Chassis,24,5
+867,Stim,unavailable,Chassis,5,5
+868,Keylex,Cynomys ludovicianus,Interior,24,9
+869,Ronstring,Taurotagus oryx,Powertrain,2,7
+870,Prodder,Phalaropus lobatus,Powertrain,14,9
+871,Cardguard,Damaliscus lunatus,Interior,12,5
+872,Trippledex,Tayassu pecari,Misc,39,5
+873,Ronstring,Butorides striatus,Powertrain,40,10
+874,Mat Lam Tam,Eunectes sp.,Electrical,48,2
+875,Voltsillam,Melanerpes erythrocephalus,Interior,18,1
+876,Hatity,Cygnus buccinator,Chassis,26,10
+877,Flowdesk,Manouria emys,Misc,21,3
+878,Andalax,Cynomys ludovicianus,Interior,41,1
+879,Quo Lux,Larus fuliginosus,Interior,1,1
+880,Prodder,Pitangus sulphuratus,Powertrain,15,6
+881,Hatity,Gazella thompsonii,Chassis,11,2
+882,Gembucket,Meleagris gallopavo,Exterior,1,2
+883,Matsoft,Cochlearius cochlearius,Powertrain,33,6
+884,Namfix,Ovis dalli stonei,Misc,22,8
+885,Flowdesk,Manouria emys,Powertrain,22,10
+886,Biodex,Creagrus furcatus,Powertrain,35,9
+887,Treeflex,Crocodylus niloticus,Powertrain,37,6
+888,Tres-Zap,Eremophila alpestris,A/C,14,2
+889,Bytecard,Limnocorax flavirostra,Misc,11,8
+890,Flexidy,Naja haje,Chassis,27,6
+891,Fintone,Bradypus tridactylus,Exterior,40,8
+892,Y-find,Hymenolaimus malacorhynchus,Powertrain,10,2
+893,Tres-Zap,unavailable,A/C,50,3
+894,Bamity,Kobus leche robertsi,Interior,44,4
+895,Asoka,Coluber constrictor foxii,Powertrain,20,10
+896,Fixflex,Echimys chrysurus,Exterior,9,7
+897,Zaam-Dox,Centrocercus urophasianus,Chassis,6,6
+898,Cookley,Equus burchelli,A/C,33,5
+899,Tresom,Eumetopias jubatus,Exterior,1,3
+900,Sub-Ex,Bucorvus leadbeateri,Powertrain,39,10
+901,Solarbreeze,Centrocercus urophasianus,Interior,22,10
+902,Sonair,Aonyx capensis,Exterior,14,10
+903,Voltsillam,Phascogale calura,Powertrain,3,10
+904,Matsoft,Mephitis mephitis,Chassis,33,2
+905,Flowdesk,Merops bullockoides,Electrical,9,8
+906,Vagram,Dendrocitta vagabunda,Chassis,43,1
+907,Opela,Lamprotornis nitens,Exterior,49,5
+908,Subin,Anhinga rufa,Chassis,45,10
+909,Job,Tockus erythrorhyncus,Interior,41,6
+910,Ventosanzap,Otaria flavescens,Chassis,12,6
+911,Flexidy,unavailable,Electrical,11,8
+912,Andalax,Bassariscus astutus,A/C,21,1
+913,Latlux,unavailable,Electrical,13,8
+914,Biodex,Carphophis sp.,Electrical,50,2
+915,Bytecard,Sarcophilus harrisii,Misc,8,6
+916,Y-find,Ninox superciliaris,Electrical,24,4
+917,Sub-Ex,Acrantophis madagascariensis,Powertrain,44,7
+918,Ronstring,Platalea leucordia,Powertrain,43,2
+919,Sonsing,Trachyphonus vaillantii,Electrical,16,6
+920,Cookley,Speotyte cuniculata,Exterior,8,5
+921,Subin,Phoeniconaias minor,Interior,18,7
+922,Gembucket,Chordeiles minor,Interior,12,9
+923,Stringtough,Streptopelia senegalensis,A/C,28,7
+924,Overhold,Macropus rufogriseus,Misc,29,6
+925,Bitchip,Sauromalus obesus,Powertrain,50,7
+926,Duobam,Zalophus californicus,Powertrain,30,3
+927,Stringtough,Microcebus murinus,Chassis,5,7
+928,Sonair,Motacilla aguimp,Electrical,28,8
+929,Flowdesk,Varanus salvator,Misc,42,8
+930,Bigtax,Felis yagouaroundi,Electrical,25,1
+931,Ronstring,Charadrius tricollaris,Electrical,6,1
+932,Y-find,Ploceus intermedius,Interior,45,1
+933,Solarbreeze,Canis dingo,Misc,41,8
+934,Asoka,Bubalornis niger,Interior,6,4
+935,Greenlam,Tyto novaehollandiae,A/C,35,5
+936,Span,Junonia genoveua,Chassis,22,4
+937,Tempsoft,Varanus albigularis,Misc,50,2
+938,Sub-Ex,Eolophus roseicapillus,Interior,12,8
+939,Zoolab,Ara chloroptera,Electrical,2,8
+940,Regrant,Agelaius phoeniceus,Misc,40,3
+941,Fixflex,Lutra canadensis,Powertrain,12,2
+942,Domainer,Neophron percnopterus,Chassis,28,3
+943,Pannier,Varanus sp.,Chassis,9,9
+944,Bigtax,Varanus salvator,Chassis,29,10
+945,Home Ing,Lepilemur rufescens,Powertrain,19,3
+946,Zontrax,Columba palumbus,Exterior,12,5
+947,Flexidy,Cygnus atratus,Misc,10,4
+948,Y-find,Connochaetus taurinus,Chassis,2,8
+949,Zaam-Dox,Streptopelia senegalensis,Interior,18,8
+950,Rank,Boa caninus,Interior,4,1
+951,Tempsoft,Connochaetus taurinus,Interior,6,4
+952,Andalax,Lycosa godeffroyi,Exterior,25,9
+953,Sonsing,Eubalaena australis,Chassis,16,3
+954,Span,Ovis canadensis,Misc,12,1
+955,Konklux,Streptopelia decipiens,Electrical,41,7
+956,Duobam,Hippopotamus amphibius,A/C,26,10
+957,Fixflex,Gekko gecko,Electrical,32,7
+958,Span,Canis lupus,A/C,37,6
+959,Quo Lux,Pseudalopex gymnocercus,Chassis,45,9
+960,Bitwolf,Sarcophilus harrisii,Interior,35,7
+961,Voltsillam,Ciconia episcopus,Powertrain,21,1
+962,Job,Aegypius tracheliotus,A/C,7,9
+963,Konklux,Naja nivea,Chassis,17,4
+964,Tempsoft,Streptopelia decipiens,A/C,18,5
+965,Zathin,Vanellus chilensis,Chassis,22,10
+966,Rank,Catharacta skua,Electrical,8,6
+967,Bamity,Odocoileus hemionus,Chassis,33,6
+968,Y-find,Climacteris melanura,Electrical,25,4
+969,Tresom,Petaurus breviceps,Interior,34,9
+970,Sonair,Cervus elaphus,Exterior,24,1
+971,Lotstring,Madoqua kirkii,Powertrain,35,3
+972,It,Ratufa indica,Interior,6,5
+973,Bamity,Parus atricapillus,Powertrain,18,3
+974,Sonair,Ninox superciliaris,Powertrain,7,9
+975,Gembucket,Phylurus milli,Exterior,17,3
+976,Y-Solowarm,Sula dactylatra,Exterior,40,5
+977,Namfix,Coluber constrictor foxii,Misc,2,6
+978,Regrant,Helogale undulata,A/C,6,5
+979,Trippledex,Mazama gouazoubira,Electrical,9,2
+980,Flowdesk,unavailable,Exterior,45,5
+981,Redhold,Dacelo novaeguineae,Electrical,10,7
+982,Opela,Pelecanus occidentalis,Electrical,42,3
+983,Voltsillam,Podargus strigoides,Powertrain,15,7
+984,Cardify,Plegadis falcinellus,Chassis,28,9
+985,Viva,Tauraco porphyrelophus,Electrical,12,9
+986,Y-Solowarm,Sus scrofa,Chassis,33,4
+987,Ventosanzap,Varanus salvator,Misc,36,6
+988,Sub-Ex,Eubalaena australis,Chassis,19,10
+989,Temp,Anas punctata,Exterior,12,8
+990,Sonair,Aonyx cinerea,Electrical,9,5
+991,Konklux,Boa constrictor mexicana,Powertrain,17,4
+992,Flowdesk,Ploceus rubiginosus,Electrical,11,1
+993,Tampflex,Galictis vittata,Chassis,18,8
+994,Hatity,Camelus dromedarius,Exterior,28,3
+995,Cardguard,Felis libyca,Chassis,17,9
+996,Latlux,Propithecus verreauxi,Misc,35,8
+997,Job,Haliaetus leucogaster,A/C,7,1
+998,It,Ursus americanus,A/C,26,9
+999,Gembucket,Zenaida galapagoensis,Interior,46,3
+1000,Y-Solowarm,Butorides striatus,Powertrain,41,1

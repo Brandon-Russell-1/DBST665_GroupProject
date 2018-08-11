@@ -1,0 +1,11 @@
+sqlldr userid=rbrandon87/brr1wik7 control=Parts_Load.ctl data=..\CSVs\Parts.csv bad= Parts_Extract.bad
+
+sqlldr userid=rbrandon87/brr1wik7 control=Customers_Load.ctl data=..\CSVs\Customers.csv bad= Customers_Extract.bad
+
+sqlldr userid=rbrandon87/brr1wik7 control=Maintenance_Actions_Load.ctl data=..\CSVs\Maintenance_Actions.csv bad= Maintenance_Actions_Extract.bad
+
+sqlldr userid=rbrandon87/brr1wik7 control=Time_Table_Load.ctl data=..\CSVs\Time_Table.csv bad= Time_Table_Extract.bad
+
+sqlldr userid=rbrandon87/brr1wik7 control=Vehicles_Load.ctl data=..\CSVs\Vehicles.csv bad= Vehicles_Extract.bad
+
+sqlldr userid=rbrandon87/brr1wik7 control=Work_Load.ctl data=..\CSVs\Work.csv bad= Work_Extract.bad

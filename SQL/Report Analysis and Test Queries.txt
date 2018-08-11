@@ -1,0 +1,70 @@
+/*Attribute Check*/
+
+select count(*) from
+(select p.parts_ID
+from parts p
+where p.parts_weight>20
+Except
+select f.parts_ID
+from work_fact_table f)A;
+
+/*Duplicate Check*/
+
+select count(*) from
+(select Cust_ID from work_fact_table
+Group by Cust_ID
+Having count(*)>1)A;
+
+/*Reconciliation Check*/
+
+select count(*) from customer;
+select count(*) from work-fact_table;
+
+/*Quarterly Sales for Calendar Year 2017*/
+
+select 
+  time_qtr  
+  , sum(work_cost)
+from work_fact_table as f
+join time_table as t on t.time_id = f.time_id
+where Year = 2017
+group by time_qtr;
+
+/*Identify which vehicles are bringing in the most money using ROLLUP*/
+
+SELECT
+   Veh_ID,
+   MaintAct_ID,
+   count(*),
+   sum(work_cost)
+FROM
+   work_fact_table
+GROUP BY
+   ROLLUP(Veh_ID, MaintAct_ID);
+
+/*Identify which maintenance actions on which vehicles are bringing in the most money*/
+
+Select
+   Veh_ID,
+   MaintAct_ID,
+   count(*),
+   sum(work_cost)
+FROM
+   work_fact_table
+GROUP BY
+   ROLLUP(Veh_ID, MaintAct_ID);
+
+/*Identify the the amount of electrical and chassis parts that were used during December 2017.*/
+
+SELECT parts.parts_category,
+       sum (fact.parts_id) Cost,
+       sum (fact.work_numofacthours) Hours
+FROM   work_fact_table              fact,
+       time_table               tim,
+       parts              parts
+WHERE  fact.period_id     = per.period_id
+  AND  fact.parts_id    = parts.parts_id
+  AND  tim.time_monthnum   = 12
+  AND  tim.time_year    = 2017
+  AND  parts.parts_category in ('Electrical','Chassis')
+GROUP BY parts.parts_category;

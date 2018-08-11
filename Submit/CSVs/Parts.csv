@@ -1,0 +1,1001 @@
+Parts_ID,Parts_Name,Parts_Description,Parts_Category,Parts_Brand,Parts_Weight,Parts_UnitOfIssue
+1,cooling system,single item,Chassis,Daugherty Inc,35,57
+2,rag top,Front,Chassis,Hills Inc,18,84
+3,brakes,remote procedure,Exterior,King LLC,38,70
+4,oil,Back,Powertrain,Ryan and Sons,30,8
+5,window,Spacer ring needed,Interior,Stracke-Fritsch,20,4
+6,auto,Spacer ring needed,Misc,Ruecker Grant and McGlynn,43,51
+7,car,2 Person Job,Electrical,Kozey-Reichert,5,4
+8,drive belt,Requires calibration,Misc,Fadel-D'Amore,10,58
+9,brakes,10-point inspection item,Electrical,Lindgren Stamm and Jerde,79,35
+10,seat belt,spare seal included,Chassis,Runolfsdottir Quitzon and Volkman,92,85
+11,computer,Check torque values,Powertrain,Kling McDermott and Trantow,15,81
+12,rims,reset computer system,Electrical,Veum Ledner and Casper,92,2
+13,brakes,install new bolts,Interior,Stanton Inc,98,28
+14,lug bolt,2 Person Job,Interior,Reichel LLC,84,48
+15,temperature gauge,minor adjustment,Powertrain,Crooks Group,96,40
+16,horn,Unexposed Section,Powertrain,Schulist and Sons,54,95
+17,reverse light,Needs additional O-rings,Exterior,Jones Group,95,64
+18,glove compartment,Front,Electrical,Borer Inc,73,16
+19,brake pedal,booster valve check,Powertrain,VonRueden Kozey and Wolff,91,97
+20,piston,spare seal included,Powertrain,Gusikowski Kling and Armstrong,37,47
+21,radio,control harness item,Exterior,Paucek LLC,25,29
+22,lights,minor adjustment,A/C,Hamill Group,81,84
+23,high-beam headlights,Use Fluke 1000,Electrical,Dietrich Inc,65,93
+24,alarm,O2 levels vary,Powertrain,Conn LLC,65,73
+25,wheel well,perform drop check,Misc,Runolfsdottir and Sons,14,10
+26,motor,check drain plug,Exterior,Langosh Will and Moen,20,75
+27,frame,Large,Electrical,McClure Witting and Leffler,59,66
+28,odometer,remote procedure,Electrical,Erdman-Price,83,14
+29,moon roof,booster valve check,Exterior,King-Skiles,59,91
+30,fuel gauge,Needs additional O-rings,Exterior,Stehr and Sons,66,32
+31,hubcap,fragile,Misc,Kuhlman-Jacobson,84,40
+32,wheel,10-point inspection item,Chassis,Dickinson LLC,96,76
+33,mirror,21-point inspection,Powertrain,Cole Prosacco and Marks,33,63
+34,four-wheel drive,tie rod check,A/C,Hyatt Gleason and Cormier,51,61
+35,undercarriage,Small,Misc,Streich Durgan and Reynolds,28,60
+36,motor,O2 levels vary,Powertrain,Brekke Inc,14,73
+37,windshield,2 Person Job,Interior,Zieme-Rodriguez,31,80
+38,crankshaft,blend blades,Electrical,Hegmann-Kovacek,12,42
+39,high-beam headlights,use steel-braid hose,Misc,Sanford Parker and Ernser,6,95
+40,power steering,belt spray needed,A/C,Kiehn Huels and Hermiston,26,11
+41,transmission,central lock system part,Interior,Bayer-Dare,3,17
+42,odometer,use steel-braid hose,Chassis,Buckridge Inc,94,25
+43,airbag,minor adjustment,Powertrain,Marks Mante and Kuphal,44,42
+44,wheel well,Set gear position 2,Interior,Schuppe Yundt and Dicki,37,17
+45,grille,spare seal included,Interior,Mann Jast and Jones,31,35
+46,fan belt,reset computer system,Electrical,Considine McCullough and Goodwin,58,97
+47,visor,perform drop check,Chassis,Kuphal-Hintz,68,21
+48,wheel well,replace cotter pin,Misc,Monahan and Sons,84,21
+49,emergency lights,check for cylinder damage,Misc,McClure Group,66,13
+50,automobile,Small,A/C,Dibbert Turner and Adams,52,75
+51,trunk,Unexposed Section,Chassis,Hayes Inc,1,88
+52,piston,Driver side,Powertrain,Mann Ernser and Schowalter,29,48
+53,lock,Needs additional O-rings,Exterior,Stiedemann LLC,71,43
+54,rotary engine,filter replacement needed,Electrical,Maggio Inc,27,25
+55,emergency lights,Heavy,Powertrain,Connelly Kerluke and Wyman,50,94
+56,turn signal,Requires additional lining,Electrical,Kreiger Kiehn and Boehm,92,99
+57,navigation system,connect to main harness,Exterior,Senger and Sons,46,27
+58,gas pedal,belt spray needed,Exterior,Homenick and Sons,7,11
+59,navigation system,Exposed Section,Powertrain,Cole-Ziemann,17,11
+60,power brakes,perform drop check,Electrical,Herzog-Ondricka,20,15
+61,lug nut,Recall Item,Chassis,Sawayn-Lubowitz,90,25
+62,tire,perform thermal checks,Powertrain,Olson-Raynor,93,12
+63,bench seat,Check torque values,Powertrain,Yundt and Sons,8,41
+64,spoiler,Dual circuit,Electrical,Schumm Group,37,65
+65,exhaust pipe,fragile,Exterior,O'Connell-Moore,21,31
+66,gauge,check drain plug,Powertrain,O'Reilly Padberg and Williamson,51,39
+67,air conditioning,Check ABS pin shear,Misc,Schultz Group,31,40
+68,all-wheel drive,perform thermal checks,Chassis,Casper and Sons,80,33
+69,lug bolt,control harness item,Chassis,Toy-Wolf,2,47
+70,hubcap,2 Person Job,Powertrain,O'Connell Blick and Feeney,81,63
+71,lights,check drain plug,Chassis,McKenzie and Sons,59,49
+72,alternator,filter replacement needed,Powertrain,Cartwright Inc,70,45
+73,internal combustion engine,basic column item,Exterior,Mante Carter and Jenkins,91,41
+74,crankshaft,Unexposed Section,Electrical,Grant and Sons,95,44
+75,drive shaft,single item,Electrical,Smith LLC,81,37
+76,trailer hitch,ops chk solenoid,Powertrain,Hilll Group,50,58
+77,heater,torque 105 in lbs,Interior,Bayer Ebert and Bogisich,48,18
+78,air conditioner,spare seal included,Interior,Cassin Group,13,88
+79,oil filter,Check ABS pin shear,Interior,Maggio-Kilback,12,100
+80,wheel,reset computer system,Electrical,Jerde-Roob,86,63
+81,differential,tie rod check,Misc,Kub Labadie and Schneider,51,75
+82,wheel,Passenger Side,Interior,Doyle-D'Amore,62,90
+83,air filter,use 5 washers,Exterior,Dietrich Bashirian and Rath,22,96
+84,speedometer,blend blades,Chassis,Streich-Quigley,88,49
+85,odometer,Requires calibration,Exterior,Beier LLC,62,23
+86,air filter,housing may be cracked,Misc,Collier Inc,75,40
+87,horn,seal gaps,Exterior,Spencer-O'Conner,45,18
+88,fuse,seal gaps,Interior,Maggio Swaniawski and Stamm,54,69
+89,baby seat,Spacer ring needed,Misc,Renner Inc,39,29
+90,temperature gauge,spare seal included,Electrical,Schmeler Inc,47,24
+91,shift,ground static check,Electrical,Rodriguez Corkery and Yost,59,92
+92,door handle,perform thermal checks,A/C,Hilpert-Hintz,53,50
+93,gas gauge,Requires calibration,Electrical,Kozey Denesik and Waters,94,70
+94,license plate,seal gaps,Powertrain,Blick Beier and Green,90,77
+95,lock,seal gaps,Chassis,Kshlerin LLC,42,88
+96,four-wheel drive,fragile,Misc,Waelchi-Koepp,45,39
+97,moon roof,central lock system part,Chassis,Schaefer Veum and Brakus,28,24
+98,rear-view mirror,perform drop check,Exterior,Davis Kshlerin and Davis,97,76
+99,suspension,fragile,Electrical,Dibbert Grady and Brown,92,96
+100,door handle,fragile,Interior,Graham Volkman and O'Connell,14,53
+101,visor,Passenger Side,Exterior,Schuppe Reilly and Johnson,96,59
+102,gauge,filter replacement needed,Powertrain,Murray-Lueilwitz,98,53
+103,spare tire,tie rod check,Powertrain,Eichmann-Walker,56,41
+104,all-wheel drive,ground static check,Electrical,Cummings Muller and Herzog,87,95
+105,emergency lights,fragile,Interior,Hahn-Gleichner,2,55
+106,oil tank,Heavy,Powertrain,Maggio-Metz,19,54
+107,baby car seat,use steel-braid hose,Electrical,Kris LLC,51,4
+108,cruise control,Front,Powertrain,Kiehn Group,35,83
+109,gas tank,housing may be cracked,Chassis,Feeney-Homenick,74,19
+110,engine,ground static check,Chassis,Ledner Morissette and Metz,64,22
+111,emergency brake,Front,Exterior,Altenwerth Hickle and Torp,89,68
+112,visor,major overhaul item,A/C,Towne Smith and Feest,72,91
+113,shift,Driver side,Misc,Waters-Stiedemann,96,32
+114,crankshaft,basic column item,A/C,Kuhlman-Hermann,87,33
+115,bucket seat,ground static check,Misc,Stokes LLC,83,13
+116,trip computer,replace cotter pin,Chassis,Rippin Stiedemann and Glover,51,51
+117,rear window defroster,Requires calibration,Electrical,Bauch Runolfsdottir and Swift,54,45
+118,gas,Passenger Side,Interior,Schaden LLC,19,38
+119,computer,single item,Interior,Murazik Bailey and Schultz,53,1
+120,moon roof,Dual circuit,A/C,Armstrong and Sons,34,40
+121,bench seat,Heavy,Chassis,Emmerich Flatley and Robel,75,35
+122,automatic transmission,single item,Misc,Kunze-Lemke,76,11
+123,chrome trim,3-person job,Exterior,Douglas Kohler and Gulgowski,91,56
+124,door,basic column item,Interior,Lehner Group,95,7
+125,navigation system,Spacer ring needed,Powertrain,Parisian-Hintz,98,70
+126,jack,switch covers,Electrical,Harvey Collins and Carroll,67,77
+127,heater,Back,Exterior,Prohaska-Willms,69,79
+128,baby seat,basic column item,Chassis,Mohr Rolfson and Tromp,40,96
+129,hubcap,Recall Item,A/C,Ward Inc,64,58
+130,air filter,use steel-braid hose,Exterior,Lockman and Sons,53,74
+131,fuel,Large,Exterior,Stoltenberg-Watsica,53,47
+132,cooling system,replace cotter pin,Misc,Botsford-Rau,33,81
+133,computer,connect to main harness,Misc,Schulist-Mann,4,58
+134,rims,fragile,Powertrain,Klein-Shields,10,79
+135,camshaft,O2 levels vary,A/C,Kohler-Romaguera,74,10
+136,gasket,replace cotter pin,Chassis,Hammes-Corkery,90,91
+137,lights,install new bolts,A/C,Terry-Ledner,27,67
+138,auto,ops chk solenoid,Interior,Feeney-Fadel,2,52
+139,muffler,prime with oil,Interior,Wisozk Labadie and Skiles,26,85
+140,manifold,single item,A/C,Konopelski and Sons,78,41
+141,manifold,blend blades,Chassis,Gottlieb Rosenbaum and Wolff,88,99
+142,four-wheel drive,Check torque values,Chassis,Yost Romaguera and Lynch,12,36
+143,emissions,booster valve check,Misc,Osinski Group,36,72
+144,brakes,prime with oil,Electrical,Effertz Inc,33,71
+145,fuse,Recall Item,Electrical,O'Hara Lind and Feest,35,69
+146,internal combustion engine,Passenger Side,Powertrain,Lang Mueller and Thiel,42,10
+147,spoiler,single item,Exterior,Mitchell-Huel,15,82
+148,air conditioning,combination item,Misc,Jerde Adams and Daniel,18,14
+149,gasoline,single item,Powertrain,Kohler Price and Bruen,4,99
+150,axle,Small,A/C,Lockman Flatley and Swaniawski,70,1
+151,key,single item,Powertrain,McLaughlin Stiedemann and Emard,32,91
+152,car,Check torque values,Electrical,Hoeger Kautzer and Leuschke,76,33
+153,floor mat,ground static check,Chassis,Aufderhar Hartmann and Davis,73,88
+154,key,21-point inspection,Powertrain,Moore-Weber,42,57
+155,grille,tie rod check,A/C,Wisoky Group,82,63
+156,door handle,seal gaps,Electrical,Funk Inc,71,49
+157,vents,Recall Item,Powertrain,Reichel Blick and Reilly,25,39
+158,baby car seat,check for rust,Interior,Koss-Welch,73,65
+159,gas tank,perform thermal checks,A/C,Schinner-Luettgen,100,62
+160,bench seat,basic column item,Electrical,Gutkowski-Schultz,47,79
+161,spare tire,Recall Item,Exterior,Gottlieb Konopelski and Mitchell,67,32
+162,oil tank,use contact cleaner,Electrical,Botsford Group,14,44
+163,headlamp,check safety switch,Exterior,Fahey-Metz,58,21
+164,drive shaft,use contact cleaner,Exterior,Johnson Kemmer and Wisoky,29,56
+165,crankshaft,check for cylinder damage,Electrical,Crooks Wiegand and VonRueden,11,79
+166,driver's seat,Check torque values,Interior,Strosin Fisher and White,34,71
+167,pedal,replace cotter pin,Exterior,Huels-Labadie,33,17
+168,transmission,use 5 washers,A/C,McGlynn-Glover,70,60
+169,axle,Use Fluke 1000,Powertrain,Mitchell-Lind,85,14
+170,rims,Back,Exterior,Kautzer-Nicolas,48,22
+171,steering column,Driver side,Interior,Ratke and Sons,75,22
+172,spark plug,convert nut plates,A/C,Jakubowski-Connelly,13,27
+173,parking brake,spare seal included,Electrical,Boyle-Lowe,94,59
+174,bucket seat,Requires additional lining,Powertrain,Oberbrunner-Schaden,27,91
+175,power steering,Driver side,Exterior,Keeling-Smitham,58,25
+176,baby seat,booster valve check,Misc,Hickle LLC,71,76
+177,fuse,Spacer ring needed,A/C,Miller Luettgen and Blick,88,38
+178,shift,10-point inspection item,Misc,Skiles Inc,42,75
+179,oil,Check timing,Misc,Runolfsdottir-Adams,88,48
+180,hybrid,central lock system part,Misc,Zulauf Anderson and Watsica,85,34
+181,hand brake,21-point inspection,Exterior,Marvin-O'Hara,74,11
+182,tachometer,Requires additional lining,A/C,Brown-Mitchell,37,51
+183,mat,Requires additional lining,Misc,Hackett-Dare,24,30
+184,fender,ops chk solenoid,Chassis,Cassin Fay and Hagenes,11,9
+185,back-up lights,perform thermal checks,Electrical,Ruecker LLC,15,32
+186,grille,Back,Misc,Adams LLC,39,83
+187,power steering,Passenger Side,Electrical,Labadie Turcotte and Prohaska,20,34
+188,tachometer,reset computer system,A/C,Schmidt LLC,45,59
+189,lock,use 5 washers,A/C,Connelly and Sons,16,17
+190,spark plug,filter replacement needed,Misc,Renner Ortiz and Beier,91,42
+191,instrument panel,belt spray needed,Exterior,Abbott Kohler and Oberbrunner,71,48
+192,fender,Check ABS pin shear,Electrical,Quitzon Jaskolski and Armstrong,90,13
+193,rims,minor adjustment,Powertrain,Strosin Stoltenberg and Gleason,80,23
+194,lug nut,blend blades,Powertrain,Littel Inc,4,35
+195,catalytic converter,use 5 washers,Interior,Klein Rutherford and Haag,45,17
+196,gas,3-person job,Misc,Gislason-O'Reilly,75,28
+197,gas pedal,Spacer ring needed,Chassis,Russel Predovic and Rempel,57,9
+198,gasket,Check torque values,Electrical,Streich Littel and Dicki,78,91
+199,warning light,Needs additional O-rings,Misc,Berge LLC,8,82
+200,tailgate,reset computer system,Interior,Lindgren Inc,44,38
+201,crankshaft,3 nuts needed,Exterior,Kemmer-Koepp,63,92
+202,axle,check for rust,Misc,Heaney Metz and Ziemann,100,79
+203,power window switch,housing may be cracked,Chassis,Abshire and Sons,28,29
+204,air filter,blend blades,Misc,Durgan Inc,17,76
+205,brake light,Front,Electrical,McClure Lowe and Wiegand,85,76
+206,roof,Set gear position 2,A/C,Daniel-Bosco,33,15
+207,headlamp,control harness item,Exterior,Raynor Williamson and Murray,74,73
+208,muffler,booster valve check,Exterior,Pfannerstill Group,99,72
+209,interior light,Unexposed Section,Exterior,Dach LLC,67,22
+210,power steering,Exposed Section,Powertrain,Walsh Group,70,57
+211,brake pedal,Unexposed Section,Exterior,Haag D'Amore and Littel,23,47
+212,diesel engine,check drain plug,Electrical,Welch-Auer,22,44
+213,lock,check for cylinder damage,Chassis,Schultz Rodriguez and Cummerata,12,58
+214,headlight,Driver side,Interior,Hirthe Inc,87,10
+215,air conditioner,blend blades,Chassis,Waelchi-Kshlerin,30,98
+216,temperature gauge,minor adjustment,Chassis,Strosin-Davis,39,9
+217,gasket,Driver side,Electrical,Carter Inc,29,42
+218,dashboard,ops chk solenoid,Exterior,Witting LLC,12,31
+219,console,use 5 washers,Misc,Crist Schaden and Dach,74,35
+220,sunroof,10-point inspection item,Powertrain,Jones Inc,81,24
+221,unleaded gas,fragile,Chassis,Murphy-Bashirian,20,47
+222,heater,Unexposed Section,Exterior,Heller LLC,49,20
+223,seat,single item,Powertrain,Little Inc,4,4
+224,fuse,filter replacement needed,Electrical,Parisian-Mueller,58,31
+225,drive belt,ground static check,Powertrain,Rath Bode and Luettgen,90,60
+226,lug nut,2 Person Job,Electrical,Lemke Keebler and Mertz,11,91
+227,turn signal,use contact cleaner,Chassis,Medhurst LLC,66,86
+228,rear-view mirror,Requires calibration,Powertrain,Kuhic-Fahey,54,81
+229,console,Back,Misc,Christiansen LLC,47,23
+230,sun visor,check for rust,Misc,Beahan Ullrich and Maggio,9,72
+231,fuel gauge,booster valve check,A/C,Johnston Collier and Bayer,50,71
+232,emergency brake,check position 3,Interior,Walter and Sons,9,13
+233,high-beam headlights,single item,Interior,Mertz LLC,57,43
+234,car,drain gas,Powertrain,Kertzmann-Dare,53,13
+235,pedal,install sump,Interior,Corwin Rippin and Roob,1,9
+236,valve,3 nuts needed,Chassis,Grady O'Conner and Kuvalis,1,23
+237,ignition,filter replacement needed,Electrical,Schamberger-Haag,27,14
+238,bucket seat,use 5 washers,A/C,Hagenes Inc,16,9
+239,headlight,check for cylinder damage,Powertrain,Morissette Stamm and Rath,33,57
+240,cruise control,central lock system part,Misc,Lueilwitz and Sons,63,3
+241,undercarriage,prime with oil,Electrical,Kirlin Group,29,15
+242,battery,remote procedure,Powertrain,Lynch Inc,1,38
+243,temperature gauge,21-point inspection,Misc,MacGyver-Ritchie,2,18
+244,windshield wiper,check drain plug,Electrical,Marvin-Simonis,20,39
+245,tailgate,Use Fluke 1000,Exterior,Koss-Nicolas,94,42
+246,cylinder,Driver side,A/C,McDermott LLC,90,91
+247,fuse,Spacer ring needed,Exterior,Mills-Gerhold,29,71
+248,rims,central lock system part,Exterior,Legros and Sons,70,69
+249,bonnet,install new bolts,Electrical,Hyatt and Sons,32,28
+250,floor mat,Dual circuit,Chassis,Johnson and Sons,8,43
+251,bench seat,Passenger Side,Powertrain,Gorczany Okuneva and Lang,95,8
+252,all-wheel drive,single item,Interior,Feeney and Sons,72,80
+253,tachometer,Small,Powertrain,Murphy Conn and Padberg,91,18
+254,undercarriage,perform thermal checks,Exterior,Wuckert Schinner and McKenzie,77,65
+255,emissions,Set gear position 2,Interior,Swift Rohan and Koelpin,100,50
+256,drive belt,Driver side,Electrical,Collier Krajcik and Davis,78,58
+257,four-wheel drive,remote procedure,Chassis,Kuhn Upton and Hills,45,93
+258,unleaded gas,3 nuts needed,Powertrain,Cruickshank-Beahan,86,39
+259,brakes,switch covers,Misc,McLaughlin Group,2,46
+260,brake light,seal gaps,Misc,O'Reilly Inc,75,40
+261,low-beam headlights,check position 3,Powertrain,Gusikowski-Leuschke,96,77
+262,seat belt,Check torque values,Powertrain,Batz Maggio and McClure,15,79
+263,internal combustion engine,3-person job,Interior,Cummerata LLC,19,3
+264,trip computer,connect to main harness,Electrical,McGlynn Mertz and Casper,69,23
+265,gear stick,Needs additional O-rings,Powertrain,Collier Inc,23,85
+266,internal combustion engine,Check timing,Interior,Cummerata LLC,30,93
+267,power brakes,10-point inspection item,A/C,Olson and Sons,91,76
+268,license plate,control harness item,Chassis,Kozey Group,52,56
+269,baby seat,Check timing,A/C,Gorczany Inc,78,21
+270,undercarriage,major overhaul item,Chassis,Herzog and Sons,35,92
+271,glove compartment,Heavy,Chassis,Walker Group,48,74
+272,cruise control,major overhaul item,Exterior,Moen and Sons,59,24
+273,crankshaft,single item,A/C,Boehm Purdy and Medhurst,19,22
+274,roof rack,ground static check,Exterior,Gislason-White,71,60
+275,filter,10-point inspection item,Chassis,Armstrong and Sons,79,20
+276,wheel,prime with oil,Powertrain,Kunde Reinger and Marvin,94,91
+277,rotary engine,21-point inspection,Electrical,Pagac Group,100,83
+278,hand brake,ground static check,Misc,Bechtelar Group,97,92
+279,rear-view mirror,single item,Interior,Green-Lakin,93,65
+280,lock,single item,Powertrain,Herman-Ledner,23,98
+281,transmission,check for cylinder damage,Electrical,Towne LLC,97,60
+282,manifold,perform thermal checks,Chassis,Beer-Leannon,40,75
+283,turn signal,combination item,Misc,Mayer and Sons,33,46
+284,power steering,blend blades,Electrical,Bayer Group,51,45
+285,speaker,housing may be cracked,Electrical,Erdman-Kertzmann,91,34
+286,muffler,central lock system part,Exterior,Ondricka Runolfsson and Terry,88,69
+287,antenna,3-person job,Powertrain,Lakin Group,86,66
+288,trailer hitch,Recall Item,Misc,Welch and Sons,75,46
+289,trunk,use 5 washers,Exterior,Streich-Borer,76,98
+290,valve,reset computer system,Misc,Waelchi-Lindgren,47,48
+291,bonnet,major overhaul item,Misc,Raynor and Sons,36,57
+292,differential,Needs additional O-rings,Electrical,Ullrich LLC,99,61
+293,hand brake,Heavy,Chassis,McLaughlin Inc,17,84
+294,engine,10-point inspection item,A/C,Bogan Hammes and Rice,71,22
+295,headlamp,use 5 washers,Interior,Yundt Inc,94,44
+296,battery,control harness item,Exterior,King Group,2,29
+297,instrument panel,3 nuts needed,Exterior,Smith-Stehr,69,20
+298,interior light,tie rod check,Misc,Hilll LLC,40,83
+299,rag top,major overhaul item,Exterior,Wunsch Inc,88,78
+300,hybrid,Exposed Section,Interior,Rosenbaum-Yost,81,69
+301,floor mat,Check torque values,Chassis,Kozey Kertzmann and Gutkowski,40,72
+302,suspension,basic column item,Electrical,Hyatt Inc,48,95
+303,motor,Needs additional O-rings,Exterior,Weber Hirthe and Nienow,100,27
+304,suspension,filter replacement needed,Misc,O'Conner Inc,43,85
+305,door handle,ops chk solenoid,Electrical,Ledner Bechtelar and Herman,12,50
+306,fuel gauge,Check ABS pin shear,Chassis,Ankunding Group,44,10
+307,drive belt,Unexposed Section,Interior,Quitzon Group,30,96
+308,alternator,check for cylinder damage,Powertrain,Champlin Grimes and Dooley,60,88
+309,alternator,2 Person Job,A/C,Grimes LLC,77,82
+310,headlight,Driver side,Electrical,Reynolds-Raynor,28,52
+311,power brakes,check position 3,Electrical,Waelchi Inc,9,15
+312,steering wheel,filter replacement needed,Powertrain,Fadel LLC,29,40
+313,gas tank,convert nut plates,Powertrain,Hahn-Hyatt,12,82
+314,shift,perform drop check,Misc,Anderson Friesen and Stehr,19,91
+315,reverse light,Use Fluke 1000,Powertrain,Paucek Keeling and Hessel,77,58
+316,console,perform thermal checks,Misc,Kiehn Balistreri and Borer,26,71
+317,passenger seat,2 Person Job,A/C,Rau Kautzer and Blanda,86,74
+318,power brakes,fragile,Exterior,Runolfsdottir and Sons,64,80
+319,shock absorber,convert nut plates,Powertrain,Wunsch and Sons,90,77
+320,gauge,switch covers,Powertrain,Glover Inc,89,52
+321,passenger seat,reset computer system,Interior,Vandervort Walsh and Koss,78,70
+322,roof,2 Person Job,Interior,Goodwin Inc,71,84
+323,steering column,connect to main harness,Powertrain,Prosacco Miller and Satterfield,55,99
+324,filter,Check ABS pin shear,Chassis,Cassin Inc,5,66
+325,air vent,replace cotter pin,Electrical,Carter-Walsh,63,81
+326,car,replace cotter pin,Electrical,Jones-Yost,96,25
+327,door,Heavy,Interior,Kub-Schneider,47,88
+328,dashboard,Requires additional lining,Misc,Botsford-Ondricka,1,91
+329,lock,remote procedure,Powertrain,Sporer Inc,87,64
+330,license plate,switch covers,Misc,Gleason and Sons,33,93
+331,interior light,use 5 washers,Electrical,Stokes-Schimmel,21,18
+332,accelerator,perform drop check,Powertrain,Dare-Carter,43,75
+333,wheel well,Use Fluke 1000,Interior,Schimmel Medhurst and Smith,52,83
+334,tire,tie rod check,Exterior,White-Shanahan,17,11
+335,parking lights,perform drop check,Powertrain,Zulauf Erdman and Gutkowski,5,78
+336,side airbags,Driver side,Exterior,Rempel-Larkin,86,3
+337,roof,use contact cleaner,Interior,Haley-Kassulke,35,40
+338,side airbags,Spacer ring needed,Chassis,Brekke Crist and Upton,68,10
+339,high-beam headlights,Passenger Side,Chassis,Stoltenberg LLC,1,32
+340,drive shaft,Passenger Side,Chassis,Zemlak-Leannon,47,97
+341,chassis,Driver side,Exterior,Franecki Fay and Williamson,98,46
+342,automobile,torque 105 in lbs,Chassis,Feeney Inc,8,46
+343,mud flap,3 nuts needed,Electrical,Lueilwitz Erdman and Blanda,11,31
+344,driver's seat,check safety switch,Misc,Wilderman Collins and Herman,72,99
+345,glove compartment,remote procedure,Powertrain,Macejkovic Jast and Cole,81,69
+346,oil tank,check position 3,Interior,Considine Cummerata and Murphy,43,41
+347,parking lights,drain gas,Powertrain,Senger-Medhurst,22,43
+348,roof,replace cotter pin,Interior,Hodkiewicz Halvorson and Greenholt,55,69
+349,axle,Back,Interior,Baumbach Buckridge and Hegmann,91,84
+350,fuse,prime with oil,A/C,Ondricka LLC,1,24
+351,ignition,Requires calibration,Misc,Collier-Donnelly,20,53
+352,gasket,Check timing,A/C,Wehner Davis and Hilll,34,95
+353,mud flap,reset computer system,A/C,Barrows-Langworth,81,79
+354,tire,perform drop check,Exterior,Jacobi Raynor and Dickens,9,68
+355,alternator,Requires calibration,Powertrain,Bashirian Group,42,52
+356,bucket seat,ground static check,Exterior,Torp-Kub,78,64
+357,catalytic converter,install new bolts,Interior,McLaughlin Inc,42,18
+358,instrument panel,Requires calibration,Chassis,Gaylord-Kub,99,63
+359,bucket seat,3 nuts needed,Electrical,Wisozk Group,19,12
+360,power window switch,Front,Chassis,Huel Carroll and Collier,86,70
+361,heater,use contact cleaner,A/C,Rogahn LLC,36,93
+362,gauge,major overhaul item,Interior,Satterfield-Langosh,26,89
+363,roof,Dual circuit,Interior,Pfeffer Bins and Keebler,33,73
+364,mirror,booster valve check,Exterior,Pacocha and Sons,96,27
+365,odometer,perform thermal checks,Exterior,Langosh Abernathy and Funk,9,43
+366,baby seat,21-point inspection,Electrical,Padberg Bogisich and Auer,72,20
+367,fog light,check for rust,Powertrain,Beier-Howell,95,68
+368,grille,Small,Chassis,Gottlieb-Hartmann,66,88
+369,navigation system,Requires additional lining,Exterior,Ritchie Mueller and Ledner,42,51
+370,alarm,perform drop check,Exterior,Bergstrom Group,72,66
+371,turbo charger,control harness item,Exterior,Romaguera and Sons,27,90
+372,driver's seat,connect to main harness,Misc,Dietrich-Monahan,19,35
+373,tachometer,check for rust,Exterior,Reichel and Sons,96,83
+374,spoiler,blend blades,Chassis,Turcotte-Will,2,48
+375,baby seat,spare seal included,A/C,Gibson-Kuhlman,79,83
+376,horn,spare seal included,Powertrain,Kerluke-Haley,100,67
+377,cylinder,Unexposed Section,Powertrain,Tremblay Kling and White,50,66
+378,roof rack,connect to main harness,Exterior,Stroman-Schuppe,54,27
+379,lug nut,minor adjustment,Powertrain,Rau Inc,87,53
+380,child car seat,ops chk solenoid,Powertrain,Little Nolan and Veum,62,74
+381,suspension,prime with oil,Misc,Robel and Sons,13,15
+382,console,O2 levels vary,A/C,Berge Group,74,75
+383,four-wheel drive,Large,Interior,Wisoky LLC,65,35
+384,filter,10-point inspection item,A/C,Sawayn Green and Hills,41,14
+385,lights,housing may be cracked,Chassis,Kuhic Group,29,6
+386,auto,reset computer system,Exterior,Kovacek Group,82,90
+387,parking lights,3-person job,Electrical,Luettgen Inc,49,20
+388,diesel engine,switch covers,Exterior,Bradtke-Mayer,95,70
+389,spare tire,belt spray needed,Chassis,Klocko Schaden and Jacobs,92,98
+390,fuel cap,check for rust,Chassis,Green Mueller and Mraz,64,88
+391,cruise control,reset computer system,Powertrain,Hand Price and Mohr,80,12
+392,rear window defroster,central lock system part,Powertrain,Beier-Kiehn,28,66
+393,gasoline,replace cotter pin,A/C,Lowe McCullough and Toy,15,46
+394,lock,booster valve check,Interior,Rempel and Sons,7,84
+395,mud flap,Check timing,Misc,Prohaska LLC,7,77
+396,fuse,install new bolts,Powertrain,Klein-Schneider,4,82
+397,oil,central lock system part,Misc,Kunze Group,29,41
+398,crankshaft,Check ABS pin shear,Chassis,Glover-Purdy,56,67
+399,valve,housing may be cracked,Exterior,Champlin Schmeler and Labadie,45,78
+400,exhaust system,spare seal included,Electrical,Beer Lang and D'Amore,72,19
+401,parking brake,check for rust,Interior,Leuschke-Turcotte,100,65
+402,turbo charger,booster valve check,Electrical,Waters and Sons,93,27
+403,floor mat,Back,A/C,McLaughlin Howell and Spencer,56,66
+404,interior light,tie rod check,Chassis,Miller Torp and Huels,5,85
+405,axle,booster valve check,Electrical,Becker Kuvalis and Armstrong,17,19
+406,low-beam headlights,use 5 washers,Electrical,Bode Effertz and Crona,22,72
+407,dashboard,3 nuts needed,Misc,McGlynn LLC,94,9
+408,visor,combination item,Interior,Nienow-Hane,64,82
+409,headlamp,Needs additional O-rings,Powertrain,Harris Inc,33,90
+410,speedometer,Use Fluke 1000,Misc,Kunze LLC,17,60
+411,armrest,remote procedure,Misc,Kessler Tromp and Abernathy,74,11
+412,air filter,check for cylinder damage,Electrical,Herzog LLC,76,22
+413,hubcap,use steel-braid hose,Powertrain,Terry Group,84,40
+414,warning light,Requires additional lining,A/C,Lehner-Ziemann,81,73
+415,airbag,Small,Powertrain,Kessler Koss and Streich,52,26
+416,emergency lights,Passenger Side,Exterior,Berge Kuhn and Torp,97,82
+417,power steering,perform thermal checks,Interior,Howell Inc,14,30
+418,alarm,Dual circuit,Chassis,Botsford and Sons,40,34
+419,odometer,connect to main harness,Chassis,Crooks LLC,37,91
+420,auto,10-point inspection item,Interior,O'Reilly Mayert and Brown,32,100
+421,clutch,check drain plug,Powertrain,Wintheiser-Senger,5,39
+422,shift,3-person job,A/C,Schulist-Prosacco,78,46
+423,tachometer,convert nut plates,Powertrain,Hackett-Kuhic,71,32
+424,air conditioner,Requires calibration,Misc,Lind Kassulke and Keebler,86,43
+425,muffler,Requires additional lining,Misc,Jakubowski-Ferry,99,46
+426,baby car seat,use 5 washers,Exterior,Metz Mayert and Skiles,21,90
+427,tailgate,tie rod check,Exterior,Hartmann-Mante,33,96
+428,heater,housing may be cracked,Misc,Schmitt and Sons,17,85
+429,oil,check safety switch,Chassis,Carter Group,26,93
+430,fuse,use contact cleaner,Interior,Gottlieb Wilkinson and Ryan,55,64
+431,transmission,ops chk solenoid,Electrical,Stanton and Sons,96,85
+432,fog light,minor adjustment,Interior,Wisozk-Crona,19,78
+433,transmission,check position 3,A/C,Bashirian-Wilkinson,79,38
+434,hybrid,21-point inspection,Interior,Willms LLC,42,53
+435,manifold,blend blades,Powertrain,Erdman and Sons,94,16
+436,sunroof,control harness item,Electrical,Prohaska Crona and Altenwerth,53,55
+437,oil filter,Unexposed Section,Powertrain,Legros and Sons,87,13
+438,rotary engine,Check ABS pin shear,Exterior,Weber O'Conner and Green,21,9
+439,cooling system,booster valve check,Misc,Friesen Inc,46,78
+440,headlamp,Check torque values,Misc,Bartoletti-Erdman,22,3
+441,window,ground static check,Electrical,Braun Inc,96,42
+442,GPS,reset computer system,Powertrain,Orn-Orn,45,78
+443,alternator,Set gear position 2,Chassis,Walter-Bogisich,96,35
+444,parking lights,Back,Electrical,Bauch LLC,24,19
+445,parking brake,Passenger Side,Powertrain,Schumm Labadie and Carter,60,2
+446,computer,check for cylinder damage,Exterior,Emmerich and Sons,99,78
+447,airbag,check for rust,Electrical,Medhurst Lakin and Legros,22,93
+448,trim,3-person job,Exterior,Kshlerin and Sons,8,28
+449,speedometer,switch covers,Exterior,Quitzon Inc,88,82
+450,fuse,10-point inspection item,Electrical,Carroll Schaefer and Lueilwitz,11,86
+451,visor,O2 levels vary,Misc,Carroll Harber and Windler,86,55
+452,lug nut,2 Person Job,Powertrain,Wiza and Sons,26,36
+453,license plate,remote procedure,Electrical,Schneider and Sons,40,36
+454,sun visor,2 Person Job,Electrical,Waelchi-Langworth,30,17
+455,roof,check safety switch,A/C,Lueilwitz-Boehm,20,39
+456,crankshaft,Check ABS pin shear,Interior,Cummings Carter and Schaefer,61,12
+457,key,control harness item,Misc,Hermann Nader and Dickens,81,24
+458,exhaust pipe,check for rust,Misc,Glover Inc,33,33
+459,hand brake,Small,Chassis,Von Group,65,21
+460,starter,convert nut plates,Powertrain,Jaskolski Corwin and Osinski,68,58
+461,fog light,prime with oil,Powertrain,Koss Inc,82,26
+462,roof,combination item,Misc,Tremblay LLC,5,9
+463,chrome trim,Check torque values,Exterior,Stroman Inc,87,17
+464,door,O2 levels vary,Misc,Senger-Beier,48,63
+465,mirror,Unexposed Section,Electrical,Herzog and Sons,76,92
+466,emergency lights,perform thermal checks,Electrical,Breitenberg Schaden and Balistreri,72,23
+467,baby seat,use steel-braid hose,Misc,Marquardt Welch and Hauck,37,64
+468,automobile,Check timing,Misc,Ziemann-Greenfelder,31,42
+469,heater,Small,Interior,Champlin-Zieme,47,66
+470,trunk,Check timing,Electrical,Mraz Goodwin and Kuphal,71,43
+471,carburetor,housing may be cracked,Misc,Farrell LLC,98,56
+472,undercarriage,Small,Interior,Halvorson Wuckert and Kilback,13,52
+473,manifold,Needs additional O-rings,Exterior,Schulist-Kovacek,68,36
+474,fog light,central lock system part,Powertrain,Schmidt-Will,35,8
+475,chrome trim,check position 3,Powertrain,Dickinson-O'Conner,88,67
+476,side airbags,O2 levels vary,A/C,Von-Pollich,31,60
+477,low-beam headlights,check drain plug,Powertrain,Luettgen-Mills,76,20
+478,console,switch covers,Exterior,Fisher-Sawayn,25,48
+479,gas pedal,prime with oil,Electrical,Brown-Bailey,72,81
+480,turbo charger,switch covers,Interior,Goodwin-Reinger,82,42
+481,axle,check for rust,Chassis,Heidenreich-Brekke,66,15
+482,suspension,ground static check,Misc,Bergnaum Inc,51,16
+483,lock,Front,Chassis,Stark Schulist and Dibbert,77,39
+484,instrument panel,convert nut plates,Misc,Schiller-Morar,32,32
+485,visor,Unexposed Section,A/C,Swift-Jacobs,32,61
+486,alarm,use steel-braid hose,Chassis,Connelly LLC,90,83
+487,automatic transmission,Spacer ring needed,Chassis,Brown-Hegmann,41,81
+488,fuel,central lock system part,Electrical,O'Conner and Sons,37,42
+489,passenger seat,use contact cleaner,Interior,Mosciski Brekke and Aufderhar,13,25
+490,high-beam headlights,Spacer ring needed,Misc,Rice-Mann,44,29
+491,spark plug,use contact cleaner,A/C,Johnson Armstrong and Bayer,28,15
+492,windshield,ops chk solenoid,Exterior,Torp-Schinner,7,56
+493,parking brake,ops chk solenoid,Misc,Ferry Group,56,93
+494,bench seat,perform drop check,Interior,Hackett Inc,35,58
+495,starter,Requires additional lining,Misc,Corkery Group,68,89
+496,lock,control harness item,Powertrain,McDermott Collier and Daniel,80,14
+497,tire,booster valve check,Chassis,Schmitt Bogan and Hegmann,87,14
+498,emergency lights,prime with oil,A/C,Howell-Ankunding,17,95
+499,seat,use steel-braid hose,Misc,Hodkiewicz LLC,47,53
+500,odometer,Use Fluke 1000,Powertrain,DuBuque-Altenwerth,14,4
+501,manifold,torque 105 in lbs,Interior,Yundt-Roberts,79,92
+502,heater,seal gaps,Misc,Wuckert-Leannon,51,30
+503,power steering,Large,Electrical,Christiansen-Murazik,40,96
+504,hubcap,filter replacement needed,Powertrain,Wolff Romaguera and Mills,8,80
+505,trim,Check ABS pin shear,A/C,Turner Feil and Kerluke,96,78
+506,rear window defroster,Requires calibration,Interior,Buckridge Jerde and Ondricka,72,38
+507,instrument panel,O2 levels vary,Exterior,Abbott-Toy,36,83
+508,window,control harness item,Exterior,Schamberger-Grady,33,15
+509,rag top,drain gas,Misc,Gutmann Inc,96,52
+510,driver's seat,Small,Interior,Schoen-Anderson,75,91
+511,fog light,ground static check,Electrical,Waelchi-Kutch,8,92
+512,computer,major overhaul item,Powertrain,Predovic and Sons,60,15
+513,airbag,blend blades,Electrical,Funk VonRueden and Renner,92,69
+514,jack,10-point inspection item,Electrical,Schmidt-Glover,2,58
+515,rear window defroster,spare seal included,Powertrain,Padberg Heaney and Johnson,2,43
+516,cylinder,Driver side,Powertrain,Roob Ebert and Upton,61,28
+517,catalytic converter,filter replacement needed,Electrical,Gleason-Hilpert,40,18
+518,license plate,Dual circuit,Exterior,Feeney Group,57,77
+519,gas gauge,10-point inspection item,A/C,Kub Yost and Ziemann,40,29
+520,chassis,central lock system part,Misc,Schowalter-Carter,80,50
+521,hood,filter replacement needed,A/C,Marquardt Inc,15,71
+522,lock,switch covers,Misc,Spinka-Brekke,71,82
+523,automatic transmission,use steel-braid hose,Interior,Gorczany Ankunding and Reichel,97,29
+524,temperature gauge,Heavy,Chassis,Kunze-Schmidt,20,43
+525,GPS,drain gas,Exterior,Baumbach Group,67,62
+526,shock absorber,Exposed Section,Electrical,Doyle-Kuhn,25,54
+527,license plate,drain gas,Chassis,Ledner Kovacek and Ruecker,6,10
+528,brake pedal,Spacer ring needed,Chassis,Predovic Inc,96,64
+529,gasket,use steel-braid hose,A/C,Hermiston-Tremblay,31,80
+530,undercarriage,replace cotter pin,Interior,Marvin-Schmitt,68,93
+531,GPS,ground static check,Misc,Wisozk McCullough and Volkman,2,97
+532,bumper,minor adjustment,Interior,Kilback LLC,26,36
+533,drive shaft,Requires additional lining,Chassis,Little Group,15,31
+534,rear-view mirror,Back,Misc,Kub-Ward,42,56
+535,internal combustion engine,torque 105 in lbs,Exterior,Schmidt-Hammes,54,73
+536,exhaust system,Check ABS pin shear,Chassis,Mayer Inc,9,25
+537,emergency lights,central lock system part,Interior,Mayert-Borer,11,83
+538,horn,Back,A/C,Anderson Group,8,52
+539,floor mat,check position 3,Powertrain,Konopelski-Green,3,93
+540,cooling system,Dual circuit,Exterior,Crooks Daugherty and Parisian,48,47
+541,muffler,Small,Powertrain,Lakin-Roob,90,27
+542,radio,21-point inspection,Misc,Morar LLC,2,57
+543,parking lights,check for rust,A/C,Greenfelder and Sons,98,95
+544,fuel,10-point inspection item,Interior,Keeling-Robel,86,12
+545,air conditioning,Use Fluke 1000,Exterior,Hartmann Inc,65,96
+546,hubcap,21-point inspection,A/C,Heaney-Bergstrom,30,21
+547,turbo charger,perform thermal checks,A/C,Boyer Inc,97,61
+548,manifold,install sump,A/C,Brekke LLC,96,93
+549,license plate,major overhaul item,Interior,Pfannerstill Keebler and Rippin,63,14
+550,GPS,Spacer ring needed,Misc,Homenick Inc,40,46
+551,rear window defroster,combination item,Exterior,Ankunding-Blanda,84,4
+552,fuel gauge,Check ABS pin shear,Interior,Steuber-Koss,77,56
+553,mat,use steel-braid hose,Electrical,O'Hara Braun and Hoppe,21,84
+554,hand brake,spare seal included,Interior,Jast-Kilback,47,44
+555,oil tank,booster valve check,Exterior,Jacobs Blick and Schneider,70,86
+556,rotary engine,check drain plug,Interior,Russel Bednar and Becker,36,90
+557,bumper,use 5 washers,Powertrain,Stamm-Haley,23,27
+558,wheel well,Requires additional lining,Electrical,Gorczany-Dach,33,47
+559,turbo charger,combination item,Exterior,Rippin-Roob,98,96
+560,lock,replace cotter pin,Electrical,Runte and Sons,77,27
+561,child car seat,combination item,A/C,Tillman and Sons,45,60
+562,gasoline,Large,Misc,Lebsack Inc,21,59
+563,drive shaft,seal gaps,Misc,Farrell-Kiehn,2,41
+564,interior light,3 nuts needed,Powertrain,Wiza-Purdy,63,55
+565,brake light,blend blades,Electrical,Zboncak LLC,22,2
+566,passenger seat,Requires calibration,Chassis,O'Kon-Watsica,100,17
+567,power steering,torque 105 in lbs,A/C,Hilll Corwin and Kerluke,22,19
+568,jack,tie rod check,Chassis,Luettgen Inc,91,90
+569,diesel engine,Set gear position 2,Interior,Gorczany-Goldner,80,13
+570,rear-view mirror,connect to main harness,Misc,Mitchell LLC,73,10
+571,door handle,major overhaul item,Electrical,Connelly Steuber and Ruecker,12,68
+572,hubcap,Spacer ring needed,Electrical,Boehm-Smith,60,57
+573,high-beam headlights,check for cylinder damage,Electrical,Balistreri-Green,31,88
+574,computer,Use Fluke 1000,Misc,Mueller-Hills,82,29
+575,gearbox,blend blades,Interior,Larkin-McGlynn,49,76
+576,shift,Spacer ring needed,Electrical,Hagenes and Sons,61,83
+577,emissions,torque 105 in lbs,Exterior,Shields and Sons,89,9
+578,roof rack,Dual circuit,Exterior,Kovacek Jast and Hettinger,49,97
+579,armrest,Check torque values,Powertrain,Wolf McLaughlin and Wilderman,34,76
+580,fuse,fragile,Misc,Morissette Inc,88,4
+581,door,combination item,Powertrain,Blick-Rohan,40,81
+582,child car seat,Requires calibration,Chassis,Cronin-Watsica,11,92
+583,horn,check for cylinder damage,Powertrain,Kunde Inc,93,89
+584,bench seat,perform drop check,Interior,Bednar Gislason and Torphy,59,5
+585,turn signal,2 Person Job,A/C,Fahey Inc,3,65
+586,rear window defroster,Check timing,A/C,Barton Rippin and Crona,66,5
+587,carburetor,3-person job,Electrical,Carroll Ondricka and Pfeffer,52,45
+588,instrument panel,Spacer ring needed,Interior,Lang Fritsch and Farrell,32,48
+589,gear stick,minor adjustment,Electrical,Jacobs Ledner and Kuhn,16,86
+590,frame,convert nut plates,Misc,Robel-Wilderman,53,2
+591,oil,prime with oil,Electrical,Considine Inc,58,99
+592,low-beam headlights,install sump,Exterior,Davis and Sons,23,79
+593,glove compartment,21-point inspection,Powertrain,Harber Group,80,59
+594,air filter,belt spray needed,Misc,Jakubowski-Collins,98,67
+595,side mirror,check safety switch,Misc,Bernhard Group,18,88
+596,window,combination item,Misc,Bradtke Kessler and Kilback,70,82
+597,trunk,check drain plug,Exterior,Schultz-Fay,85,53
+598,suspension,check safety switch,Misc,Kuhn Group,98,81
+599,emergency lights,ops chk solenoid,Exterior,Parker Group,20,69
+600,fuse,combination item,Electrical,Parker Wyman and Wisoky,6,85
+601,seat,check safety switch,Interior,Miller LLC,62,67
+602,oil,connect to main harness,Interior,Huels and Sons,28,99
+603,power brakes,Requires additional lining,A/C,Kassulke LLC,82,35
+604,filter,minor adjustment,A/C,Stracke-Bode,42,73
+605,computer,belt spray needed,Exterior,Anderson Greenfelder and Senger,96,12
+606,spark plug,perform thermal checks,Misc,Boehm Parisian and Moen,67,66
+607,gasoline,Check torque values,Interior,Hoppe-Kilback,52,80
+608,grille,Requires additional lining,Interior,Schimmel Group,63,73
+609,muffler,single item,Exterior,Brekke LLC,79,42
+610,alarm,21-point inspection,Electrical,Kuhic LLC,34,94
+611,seat,Set gear position 2,Chassis,Stark Schoen and Streich,35,18
+612,gearbox,reset computer system,Exterior,Mitchell LLC,19,56
+613,four-wheel drive,filter replacement needed,Electrical,Schimmel Group,67,93
+614,spoiler,Back,A/C,Gaylord Inc,21,97
+615,chassis,belt spray needed,Electrical,Greenholt Labadie and Price,24,70
+616,cooling system,Requires additional lining,Exterior,Stehr Kihn and Goyette,5,87
+617,driver's seat,single item,Misc,Greenholt Glover and Morar,46,4
+618,bumper,check position 3,Chassis,Jacobs and Sons,39,100
+619,motor,Recall Item,Powertrain,Runte and Sons,27,19
+620,child car seat,housing may be cracked,Exterior,Champlin and Sons,98,33
+621,spark plug,ops chk solenoid,Chassis,Yundt and Sons,94,67
+622,catalytic converter,check for rust,Interior,Kemmer-Murphy,91,76
+623,exhaust system,control harness item,Electrical,Heaney LLC,95,60
+624,fuse,use steel-braid hose,A/C,Bailey Kris and Lockman,4,77
+625,emergency brake,perform thermal checks,Chassis,Berge O'Conner and Abshire,2,71
+626,fuel gauge,belt spray needed,Misc,Moen-Mueller,10,5
+627,fuse,major overhaul item,Powertrain,Keebler Glover and Greenholt,33,68
+628,valve,prime with oil,Chassis,Corkery Reilly and Armstrong,96,20
+629,baby seat,belt spray needed,Powertrain,Franecki and Sons,54,44
+630,mat,single item,Misc,Bernier Baumbach and Von,51,66
+631,unleaded gas,single item,Exterior,Williamson-Koelpin,3,90
+632,driver's seat,central lock system part,Exterior,Hauck-Marquardt,43,72
+633,console,control harness item,A/C,Prohaska-Maggio,23,4
+634,baby car seat,Small,Chassis,Rau Hermann and Abbott,15,25
+635,drive shaft,fragile,Misc,Mills-Weimann,36,48
+636,filter,Spacer ring needed,Exterior,Kuhic-Williamson,18,96
+637,parking lights,basic column item,Chassis,Stamm and Sons,75,98
+638,gasket,use contact cleaner,A/C,Hane Emmerich and Konopelski,64,50
+639,power window switch,housing may be cracked,A/C,Weimann-O'Keefe,20,39
+640,gas pedal,combination item,Chassis,Swaniawski-Streich,71,14
+641,anti-lock brakes,seal gaps,Chassis,Rempel-Smith,57,41
+642,radiator,3-person job,Electrical,Lockman and Sons,34,63
+643,unleaded gas,Use Fluke 1000,Misc,Kuvalis and Sons,44,94
+644,fan belt,Spacer ring needed,A/C,Effertz LLC,3,60
+645,fender,Back,Electrical,Smith-Kertzmann,44,87
+646,camshaft,control harness item,A/C,Koss Group,30,98
+647,driver's seat,Check torque values,Exterior,Feeney LLC,32,24
+648,jack,Set gear position 2,Powertrain,Rogahn Bins and O'Reilly,85,43
+649,key,central lock system part,A/C,Swaniawski Group,25,9
+650,passenger seat,belt spray needed,Exterior,Wisozk-Bergnaum,15,71
+651,shock absorber,use contact cleaner,Exterior,Braun Pacocha and Goodwin,17,94
+652,trunk,Unexposed Section,Powertrain,Altenwerth Group,75,63
+653,brakes,check drain plug,Chassis,Powlowski Inc,84,24
+654,visor,Dual circuit,Chassis,Sporer-Considine,59,22
+655,filter,Recall Item,Interior,Hauck LLC,65,74
+656,gear stick,Check ABS pin shear,Chassis,Davis Jakubowski and Jacobson,40,24
+657,accelerator,perform drop check,Exterior,Friesen Wuckert and Bashirian,67,42
+658,emergency lights,use contact cleaner,Powertrain,Lesch Powlowski and Haag,50,24
+659,defroster,Check torque values,Misc,Hammes-Dibbert,94,35
+660,seat,torque 105 in lbs,A/C,Brakus Leffler and Ernser,92,13
+661,transmission,control harness item,Misc,Little LLC,20,43
+662,power brakes,Passenger Side,Electrical,Towne Group,25,76
+663,rear-view mirror,booster valve check,Misc,Langosh-Dach,100,83
+664,speaker,O2 levels vary,Powertrain,Upton Inc,37,11
+665,muffler,check for cylinder damage,Electrical,Reinger and Sons,94,22
+666,airbag,Front,Chassis,Cruickshank and Sons,15,57
+667,headlamp,blend blades,Misc,Fay and Sons,55,12
+668,trunk,booster valve check,A/C,Medhurst LLC,98,17
+669,gear stick,remote procedure,Chassis,Murphy LLC,80,85
+670,emergency brake,filter replacement needed,Interior,Ryan LLC,54,76
+671,hood,install new bolts,Interior,Keeling Group,24,75
+672,catalytic converter,install sump,Exterior,Lind and Sons,82,32
+673,tailgate,convert nut plates,A/C,Jacobson LLC,56,17
+674,door,check position 3,Interior,Barrows Hermiston and Reilly,46,39
+675,antenna,Set gear position 2,Misc,Kemmer-Casper,71,58
+676,child car seat,ops chk solenoid,A/C,Kris LLC,88,20
+677,catalytic converter,ops chk solenoid,Electrical,Jacobi-Schulist,87,24
+678,fuse,Front,A/C,Pagac Daniel and Weber,98,52
+679,camshaft,use 5 washers,Powertrain,Balistreri Doyle and Kreiger,5,48
+680,lug bolt,basic column item,Misc,Simonis Inc,91,39
+681,back-up lights,use steel-braid hose,Electrical,Ledner Lockman and Larkin,74,43
+682,oil tank,control harness item,Interior,Schmitt Inc,44,43
+683,ignition,blend blades,Powertrain,Cummings and Sons,85,58
+684,grille,seal gaps,Interior,Skiles Inc,60,85
+685,rear window defroster,use 5 washers,Chassis,Denesik-Morar,64,87
+686,instrument panel,control harness item,Electrical,Swift-Boyle,64,1
+687,defroster,drain gas,Interior,Hoeger LLC,84,56
+688,gauge,major overhaul item,Exterior,Adams-Gottlieb,30,40
+689,headrest,torque 105 in lbs,Chassis,Gutmann Torp and Jakubowski,75,58
+690,jack,check safety switch,Chassis,Prohaska LLC,69,14
+691,parking brake,3-person job,Electrical,Stoltenberg-Hirthe,15,31
+692,windshield,Heavy,Exterior,Leannon Schaden and Langworth,99,70
+693,air conditioning,Spacer ring needed,Powertrain,Grant Von and Keeling,83,15
+694,license plate,Exposed Section,Interior,Waelchi Stark and Anderson,46,78
+695,headlight,perform thermal checks,Powertrain,Leffler LLC,54,34
+696,bumper,Exposed Section,Exterior,Fisher Group,14,87
+697,baby car seat,drain gas,Electrical,Thompson LLC,43,76
+698,crankshaft,Dual circuit,Interior,Price-Adams,9,20
+699,window,Recall Item,Interior,Hermann-Hirthe,96,77
+700,gasoline,minor adjustment,Interior,Kuhn-Pouros,32,71
+701,bumper,belt spray needed,Misc,Lang and Sons,44,23
+702,gasket,minor adjustment,A/C,Greenholt-Kohler,1,17
+703,lock,single item,Misc,Jacobson Group,87,47
+704,catalytic converter,O2 levels vary,Exterior,Abbott Bauch and Spinka,88,21
+705,speedometer,tie rod check,Chassis,Toy-Aufderhar,21,75
+706,odometer,Dual circuit,Exterior,Aufderhar Inc,28,88
+707,fan belt,remote procedure,Misc,King Inc,100,88
+708,windshield,Recall Item,Interior,Legros Group,72,82
+709,radiator,connect to main harness,Misc,Kuhlman and Sons,74,40
+710,warning light,ops chk solenoid,A/C,Botsford McKenzie and Sporer,39,66
+711,mirror,belt spray needed,Electrical,Christiansen LLC,35,76
+712,four-wheel drive,check drain plug,Chassis,Murazik Schulist and Murray,98,74
+713,rear window defroster,use contact cleaner,Interior,Hahn and Sons,88,16
+714,jack,21-point inspection,Exterior,Streich Inc,78,16
+715,chassis,ops chk solenoid,Interior,Fritsch-Crist,86,74
+716,shift,housing may be cracked,Powertrain,Osinski-Ziemann,93,86
+717,mirror,Driver side,Electrical,Hilpert LLC,25,50
+718,glove compartment,Dual circuit,Misc,Quigley-O'Connell,83,42
+719,gas,Exposed Section,A/C,Reichel-Carroll,84,81
+720,mirror,Small,Misc,Hermiston-Price,93,91
+721,fuel,O2 levels vary,Chassis,Goldner Torp and Treutel,76,75
+722,turn signal,Requires additional lining,A/C,Nicolas Mraz and Bartell,67,94
+723,navigation system,switch covers,Electrical,Kutch and Sons,1,20
+724,exhaust system,Driver side,Electrical,Jast-Morissette,83,17
+725,lock,Passenger Side,Powertrain,Batz Donnelly and Parker,26,50
+726,roof,control harness item,Exterior,Kozey and Sons,64,54
+727,floor mat,major overhaul item,Exterior,Friesen LLC,34,23
+728,muffler,O2 levels vary,Chassis,Beier Crona and Swift,50,77
+729,baby seat,filter replacement needed,Misc,Weimann-Ullrich,14,34
+730,side mirror,use steel-braid hose,Misc,Herman-Monahan,40,18
+731,automobile,2 Person Job,Exterior,Hettinger Group,28,72
+732,odometer,spare seal included,Misc,Moore Kuhlman and Harris,23,66
+733,headlamp,O2 levels vary,A/C,Rosenbaum Bosco and Schmidt,35,2
+734,sunroof,basic column item,Electrical,Goldner Kertzmann and Powlowski,74,56
+735,shift,Back,Exterior,Larson and Sons,22,83
+736,tire,drain gas,Misc,Nader-Pouros,4,39
+737,window,2 Person Job,A/C,Kautzer-Harber,26,22
+738,cylinder,central lock system part,Chassis,Feest-Mitchell,98,46
+739,engine,Small,Electrical,Armstrong LLC,72,57
+740,cylinder,check for cylinder damage,Misc,Ryan Inc,98,55
+741,mat,drain gas,Electrical,Kiehn Group,29,33
+742,axle,Needs additional O-rings,A/C,Abbott Keeling and Greenholt,46,56
+743,crankshaft,check position 3,Interior,Moore-Skiles,86,98
+744,air conditioner,10-point inspection item,Misc,Schneider and Sons,89,82
+745,child car seat,check for cylinder damage,Chassis,Von Mills and Jast,80,64
+746,windshield,connect to main harness,Interior,Hudson Botsford and Cummings,24,89
+747,trip computer,check for cylinder damage,Interior,Green Quigley and Botsford,79,76
+748,shift,Passenger Side,Misc,O'Reilly Inc,57,81
+749,spare tire,prime with oil,Powertrain,Lemke Group,88,61
+750,trip computer,single item,Powertrain,Blanda Runolfsdottir and Quitzon,98,37
+751,gas pedal,Spacer ring needed,Misc,Macejkovic and Sons,79,79
+752,headrest,Back,Electrical,Corkery Inc,36,15
+753,power window switch,torque 105 in lbs,Powertrain,Boyle LLC,3,67
+754,vents,Large,Interior,Wintheiser Spinka and Farrell,60,55
+755,transmission,tie rod check,Chassis,Hudson Ondricka and Senger,25,94
+756,rotary engine,use contact cleaner,Electrical,Mueller Price and Willms,10,71
+757,license plate,spare seal included,Electrical,Kub-Cummerata,94,17
+758,air filter,minor adjustment,Powertrain,Nienow Cole and Reichert,72,21
+759,visor,basic column item,Powertrain,Wolff Inc,94,81
+760,roof,Heavy,Electrical,Pollich Stokes and Effertz,7,78
+761,headlamp,booster valve check,A/C,Fadel-Morissette,85,65
+762,alternator,Set gear position 2,Electrical,Schneider LLC,25,76
+763,thermometer,Driver side,Powertrain,Champlin Group,89,21
+764,rims,tie rod check,Powertrain,White-Kuvalis,11,96
+765,speaker,O2 levels vary,Interior,Windler-Daugherty,28,51
+766,navigation system,minor adjustment,Powertrain,Marvin-Hagenes,94,30
+767,antenna,combination item,Misc,Stamm Gulgowski and Mante,78,96
+768,trailer hitch,3-person job,Exterior,Windler-Bartoletti,41,95
+769,exhaust pipe,Front,Exterior,Auer Inc,19,59
+770,seat belt,check drain plug,Electrical,Powlowski O'Reilly and Kerluke,60,34
+771,gas pedal,install sump,Chassis,Champlin Senger and Klocko,100,72
+772,spoiler,check position 3,Chassis,Hirthe Inc,90,91
+773,back-up lights,Use Fluke 1000,Chassis,Simonis-DuBuque,42,76
+774,manual transmission,ground static check,Exterior,Oberbrunner Borer and Quigley,49,87
+775,warning light,fragile,Powertrain,Cassin-Dach,22,90
+776,jack,Unexposed Section,Interior,Bartoletti-Ratke,67,94
+777,emissions,connect to main harness,A/C,Ziemann-Watsica,61,13
+778,visor,Large,Chassis,Jakubowski and Sons,70,19
+779,wheel well,Back,Electrical,Stanton and Sons,95,51
+780,undercarriage,drain gas,Misc,Raynor-Schneider,93,61
+781,air filter,switch covers,Powertrain,Gleason-Price,71,41
+782,driver's seat,Check ABS pin shear,Chassis,Lehner Schaden and Roob,40,35
+783,jack,check for cylinder damage,Misc,Parisian-Cummerata,94,19
+784,tailgate,Unexposed Section,Electrical,Carroll Lang and Bednar,51,12
+785,GPS,torque 105 in lbs,Interior,Lebsack-Rohan,99,65
+786,rear window defroster,21-point inspection,Electrical,Cremin Group,19,20
+787,gearbox,drain gas,Misc,Stanton LLC,94,35
+788,trim,blend blades,Exterior,Bauch-Yundt,20,45
+789,carburetor,Unexposed Section,Powertrain,O'Connell-Corwin,79,17
+790,glove compartment,Requires additional lining,Electrical,Von and Sons,26,84
+791,emissions,Small,Powertrain,Emmerich LLC,52,48
+792,mirror,Set gear position 2,Powertrain,Bosco-Gerhold,69,28
+793,emergency lights,Passenger Side,Chassis,McKenzie-Skiles,15,54
+794,low-beam headlights,use steel-braid hose,A/C,Kautzer Inc,6,26
+795,anti-lock brakes,2 Person Job,Chassis,Gislason-O'Keefe,77,79
+796,fuel cap,prime with oil,Electrical,Koch Group,45,30
+797,roof,O2 levels vary,Chassis,Doyle Gibson and Conroy,57,34
+798,airbag,Heavy,A/C,Wintheiser Group,7,75
+799,defroster,spare seal included,Electrical,Gorczany Davis and King,23,19
+800,hubcap,connect to main harness,Chassis,Littel and Sons,33,79
+801,cylinder,perform drop check,Interior,Hessel Group,99,59
+802,cruise control,single item,Powertrain,Halvorson Group,52,46
+803,reverse light,use 5 washers,Exterior,Lang LLC,81,55
+804,exhaust system,connect to main harness,A/C,Kilback Group,24,78
+805,thermometer,booster valve check,Exterior,Johnston LLC,81,93
+806,passenger seat,check safety switch,Misc,Bechtelar Inc,64,5
+807,jack,Needs additional O-rings,A/C,Harris Bins and Denesik,18,21
+808,bonnet,ground static check,Exterior,Spencer and Sons,21,9
+809,starter,tie rod check,Misc,Ledner-Runolfsdottir,65,23
+810,car,torque 105 in lbs,Powertrain,Hegmann Hermiston and Schmitt,37,68
+811,speaker,housing may be cracked,Electrical,Dickens Ward and Gerhold,97,54
+812,windshield,install sump,A/C,Batz-Herman,39,29
+813,tachometer,check safety switch,Chassis,Osinski-Hayes,2,10
+814,internal combustion engine,basic column item,Powertrain,Kuphal-Nitzsche,71,5
+815,instrument panel,Recall Item,Misc,Hartmann-DuBuque,13,38
+816,moon roof,Needs additional O-rings,A/C,Moore Vandervort and Kuhn,89,42
+817,roof rack,check for rust,Chassis,Mayer LLC,45,54
+818,bumper,Dual circuit,Exterior,Hoeger Beer and Ebert,7,29
+819,oil tank,Driver side,Exterior,Flatley King and Kemmer,19,99
+820,door handle,replace cotter pin,Misc,Jacobi Powlowski and Heller,9,77
+821,piston,tie rod check,Interior,Zboncak Abbott and Swift,56,42
+822,tachometer,Set gear position 2,Powertrain,Runolfsdottir Group,83,14
+823,manual transmission,spare seal included,A/C,Grimes Wilderman and Botsford,55,84
+824,high-beam headlights,use contact cleaner,Interior,Mosciski Keeling and Gleichner,19,79
+825,glove compartment,Heavy,Chassis,Jaskolski Wisozk and Baumbach,58,82
+826,wheel well,basic column item,Chassis,Beer Padberg and Schowalter,8,67
+827,sunroof,Unexposed Section,Exterior,Bartoletti Leannon and Kozey,13,13
+828,spare tire,combination item,Misc,Davis Inc,60,80
+829,radio,check position 3,Exterior,Lueilwitz Hoppe and Ryan,18,36
+830,spoiler,10-point inspection item,Chassis,Halvorson-Klein,19,23
+831,cylinder,drain gas,Chassis,Schowalter Wolff and Reichel,98,89
+832,accelerator,2 Person Job,Electrical,Johnston Kerluke and Glover,99,65
+833,tachometer,torque 105 in lbs,Electrical,Witting-Tromp,53,33
+834,GPS,check drain plug,Electrical,Leuschke Farrell and Hills,63,22
+835,camshaft,Driver side,Electrical,Dach-Legros,97,77
+836,emergency brake,replace cotter pin,Chassis,Ward Inc,51,69
+837,gas tank,drain gas,Misc,Rohan Harris and Streich,96,64
+838,fuel,torque 105 in lbs,Electrical,Bashirian Fahey and Padberg,69,94
+839,fuse,Small,Chassis,Ortiz Group,61,67
+840,catalytic converter,seal gaps,Interior,Rempel Group,3,14
+841,parking lights,Check timing,Misc,Hills Hoeger and Spinka,60,36
+842,automatic transmission,basic column item,Chassis,Sawayn-Schmidt,26,43
+843,roof,replace cotter pin,Chassis,Marquardt Group,97,55
+844,bumper,check for rust,Electrical,Bauch Johnson and Miller,35,7
+845,mud flap,minor adjustment,Chassis,Kuvalis Lesch and Schamberger,93,38
+846,visor,central lock system part,Misc,Kuhn Hoppe and Reichel,33,87
+847,mud flap,major overhaul item,Exterior,Moen Inc,13,50
+848,windshield,seal gaps,Electrical,Schmidt Group,62,45
+849,gear shift,drain gas,Chassis,Mills-Christiansen,90,58
+850,fender,use 5 washers,Interior,Kunde Group,83,55
+851,fan belt,torque 105 in lbs,Misc,Cummings-Pfannerstill,79,33
+852,brake light,remote procedure,Misc,Kris and Sons,36,10
+853,tachometer,single item,Interior,Torphy Bode and Hilpert,87,83
+854,manifold,Back,Chassis,McDermott Group,43,39
+855,hybrid,drain gas,Interior,Bradtke-Kerluke,22,77
+856,air filter,blend blades,Chassis,Hyatt and Sons,51,6
+857,passenger seat,Driver side,Powertrain,Ledner LLC,96,17
+858,oil tank,Check torque values,Interior,Murazik-Stiedemann,70,1
+859,windshield wiper,3 nuts needed,Chassis,Bradtke-Tromp,30,41
+860,rear-view mirror,perform thermal checks,Chassis,McGlynn Lynch and Johns,49,82
+861,filter,use steel-braid hose,Misc,Braun Inc,100,13
+862,emergency lights,Driver side,Misc,Hudson and Sons,66,30
+863,driver's seat,O2 levels vary,A/C,Dietrich-Kulas,80,54
+864,radio,Driver side,Chassis,Welch-Windler,76,27
+865,computer,prime with oil,Misc,Zieme Breitenberg and McClure,87,35
+866,emergency lights,check drain plug,Powertrain,Jast Group,20,27
+867,spare tire,major overhaul item,Powertrain,Buckridge-Conn,15,19
+868,car,belt spray needed,A/C,Hilpert Kertzmann and Funk,21,22
+869,car,check drain plug,A/C,Mann Bednar and Ebert,49,70
+870,side mirror,check for rust,Misc,Hoppe-Deckow,80,79
+871,rear-view mirror,reset computer system,Exterior,Rolfson LLC,49,36
+872,headrest,single item,Electrical,Quitzon Corwin and Trantow,65,54
+873,gear shift,check for rust,Powertrain,Green Inc,35,47
+874,gas tank,major overhaul item,Exterior,Rolfson and Sons,53,25
+875,engine block,Passenger Side,Interior,Torp-Bechtelar,32,38
+876,car,3 nuts needed,A/C,Hickle Inc,81,15
+877,turbo charger,prime with oil,Exterior,O'Conner-Stark,94,93
+878,fuel gauge,switch covers,Electrical,Stokes Kessler and Gaylord,26,73
+879,parking brake,reset computer system,Misc,Kuphal-Dietrich,100,80
+880,battery,check for cylinder damage,Electrical,Corkery-Wolf,71,10
+881,roof rack,3-person job,Electrical,Schinner Group,90,38
+882,alarm,2 Person Job,Exterior,Gutmann Group,49,18
+883,engine block,switch covers,Exterior,Olson Hoppe and Dietrich,59,12
+884,seat,Driver side,Exterior,Kuphal Inc,71,24
+885,all-wheel drive,torque 105 in lbs,Misc,Rempel LLC,28,52
+886,jack,Recall Item,Misc,Walker Group,26,18
+887,license plate,Requires calibration,Interior,Windler Christiansen and Gerlach,23,31
+888,gauge,control harness item,A/C,Keeling-Boyle,12,58
+889,baby car seat,Back,Misc,Bechtelar LLC,18,69
+890,hand brake,remote procedure,Exterior,Trantow Hettinger and Lakin,6,90
+891,fuel,check position 3,Chassis,Hudson LLC,8,30
+892,spare tire,Unexposed Section,Interior,Schmeler-Dicki,2,56
+893,lock,Front,Misc,Hamill and Sons,18,91
+894,differential,spare seal included,Interior,Hilll and Sons,31,37
+895,visor,belt spray needed,Electrical,Lind Inc,99,46
+896,child car seat,use 5 washers,Powertrain,Morissette-Bruen,96,82
+897,fuel,blend blades,Powertrain,Schiller Nienow and Lesch,32,66
+898,license plate,remote procedure,Chassis,Muller Inc,25,100
+899,door handle,Check ABS pin shear,Powertrain,Hane Stoltenberg and Beier,99,77
+900,chrome trim,Back,Misc,Von-Beahan,37,92
+901,door handle,Requires additional lining,Chassis,Lueilwitz-Schaden,27,97
+902,baby seat,Check torque values,A/C,Christiansen Inc,70,23
+903,instrument panel,spare seal included,Powertrain,Mohr-Rath,17,92
+904,fan belt,major overhaul item,Powertrain,Zieme Boehm and Gorczany,31,61
+905,alternator,Check torque values,Interior,Hilpert Inc,28,72
+906,seat,spare seal included,Powertrain,Homenick Kessler and Huels,61,36
+907,shift,check drain plug,Chassis,Graham Inc,86,69
+908,brake pedal,Small,Electrical,Rempel-Goyette,9,97
+909,visor,Needs additional O-rings,Electrical,Corkery-Mueller,74,62
+910,computer,Requires additional lining,Interior,Stroman and Sons,35,90
+911,gas tank,check safety switch,Misc,Kshlerin Group,54,73
+912,ignition,3-person job,Exterior,Kunze LLC,63,30
+913,trailer hitch,Exposed Section,Electrical,Lind Inc,15,82
+914,all-wheel drive,ground static check,Chassis,Zulauf Larson and Johnson,48,79
+915,visor,2 Person Job,Chassis,Boyle Hand and Hayes,11,68
+916,exhaust system,check for cylinder damage,Chassis,Kub-Boyle,9,100
+917,door handle,check position 3,Powertrain,Kutch Inc,65,4
+918,hubcap,switch covers,Powertrain,Mills Inc,50,64
+919,heater,use contact cleaner,Powertrain,Lesch Zboncak and Stoltenberg,80,8
+920,tachometer,Passenger Side,Chassis,Kozey Fadel and Pollich,46,93
+921,drive shaft,2 Person Job,Interior,Klein and Sons,84,21
+922,piston,Back,Powertrain,Volkman Wolf and Osinski,43,20
+923,door,single item,Misc,Flatley-Smith,79,99
+924,glove compartment,3 nuts needed,Interior,Collins Osinski and Klocko,98,28
+925,wheel well,3-person job,Chassis,Kulas Christiansen and Strosin,44,100
+926,gasoline,use 5 washers,Interior,Quigley LLC,100,41
+927,steering column,check safety switch,Powertrain,Lueilwitz-Blick,80,15
+928,tachometer,connect to main harness,Chassis,Waters Group,65,21
+929,starter,perform thermal checks,Powertrain,Kuvalis Inc,29,12
+930,battery,filter replacement needed,Chassis,Ebert-Sipes,19,90
+931,wheel,fragile,Interior,Hayes Inc,53,100
+932,emissions,central lock system part,A/C,Zboncak-Moore,10,76
+933,visor,Unexposed Section,A/C,Mann-Cummerata,49,9
+934,rear window defroster,check for rust,Powertrain,Stroman Auer and Romaguera,76,92
+935,power brakes,drain gas,Exterior,Doyle Treutel and Crooks,47,24
+936,window,seal gaps,Exterior,Glover Inc,92,31
+937,all-wheel drive,drain gas,Misc,Schinner Smitham and Kunde,35,33
+938,crankshaft,install sump,A/C,Friesen West and Bauch,87,83
+939,roof rack,Passenger Side,Misc,Gutmann Bahringer and Emmerich,92,9
+940,crankshaft,Needs additional O-rings,Interior,Dicki-Crona,71,5
+941,fuel,install new bolts,Exterior,Kihn and Sons,4,45
+942,license plate,Small,A/C,Wilderman-Lakin,39,5
+943,wheel,Check timing,Misc,Hessel Kuvalis and Davis,97,3
+944,back-up lights,remote procedure,Chassis,Will-Greenholt,62,45
+945,automobile,Driver side,A/C,O'Kon Lesch and Schultz,58,84
+946,air filter,switch covers,Misc,Tremblay LLC,80,44
+947,emergency lights,basic column item,Misc,O'Conner Group,17,39
+948,fuel,seal gaps,Exterior,Grimes-Paucek,75,87
+949,bumper,Requires calibration,Powertrain,Ward Russel and O'Kon,15,45
+950,thermometer,convert nut plates,Chassis,Jenkins Dare and Jacobi,41,66
+951,speaker,single item,Interior,Jacobi Osinski and Hand,56,43
+952,spark plug,Set gear position 2,Powertrain,Skiles Gislason and Prosacco,57,8
+953,carburetor,ground static check,Misc,Rogahn Bauch and Zulauf,11,49
+954,rear-view mirror,check for rust,Exterior,Nader and Sons,88,58
+955,muffler,tie rod check,Interior,Hauck Reichel and Gulgowski,4,21
+956,trip computer,ground static check,Chassis,Hammes and Sons,76,23
+957,gas tank,Needs additional O-rings,Chassis,Jaskolski Weber and Fisher,34,24
+958,unleaded gas,use steel-braid hose,Exterior,Pacocha Inc,61,22
+959,starter,install sump,Powertrain,Reynolds Stroman and Huels,13,68
+960,mud flap,perform thermal checks,Electrical,Waelchi Bosco and Nader,62,77
+961,bonnet,Recall Item,Electrical,Johnson and Sons,44,11
+962,dip stick,Unexposed Section,Electrical,Carroll LLC,81,65
+963,fan belt,reset computer system,Chassis,Senger-O'Reilly,80,7
+964,automatic transmission,check position 3,Misc,O'Hara-Schaden,29,39
+965,jack,Recall Item,Electrical,Purdy Group,89,75
+966,drive belt,O2 levels vary,Chassis,Hand Rohan and Heaney,15,61
+967,fuel gauge,fragile,Misc,Schiller Boehm and Satterfield,76,89
+968,computer,replace cotter pin,A/C,Goyette Gulgowski and Hyatt,43,40
+969,diesel engine,Back,A/C,Lehner and Sons,81,94
+970,gauge,connect to main harness,Misc,Moen Kautzer and Mayer,88,6
+971,license plate,connect to main harness,Exterior,Baumbach Inc,53,57
+972,turbo charger,Check ABS pin shear,Misc,Ullrich LLC,79,42
+973,unleaded gas,Large,Chassis,Walker Inc,37,64
+974,tachometer,torque 105 in lbs,Chassis,Roob Wintheiser and Marks,10,50
+975,mat,Small,A/C,Ziemann Wolf and Hodkiewicz,63,64
+976,fan belt,spare seal included,Misc,Dietrich Cummerata and Breitenberg,5,91
+977,interior light,Use Fluke 1000,Interior,Abshire Fadel and Sporer,40,28
+978,steering column,belt spray needed,Exterior,Mitchell LLC,55,70
+979,bench seat,check position 3,Exterior,Deckow Lueilwitz and Wisozk,70,54
+980,air conditioner,Driver side,A/C,Rodriguez Inc,19,88
+981,filter,central lock system part,Exterior,Fisher Group,19,70
+982,window,basic column item,Chassis,Bergstrom Group,18,18
+983,gearbox,Check ABS pin shear,A/C,Bauch Schulist and Mann,72,100
+984,windshield wiper,spare seal included,Electrical,Hills Deckow and Steuber,74,75
+985,fog light,prime with oil,Powertrain,Mosciski-Dickens,95,50
+986,hand brake,Needs additional O-rings,Electrical,Murray-Rowe,63,52
+987,lug nut,Driver side,Interior,Williamson Inc,97,31
+988,computer,Exposed Section,Exterior,Wuckert Inc,50,97
+989,engine block,fragile,Exterior,Beatty Feeney and Shields,28,24
+990,temperature gauge,use 5 washers,Interior,Bartoletti Corwin and Rolfson,51,41
+991,diesel engine,control harness item,Powertrain,Ankunding Nader and Shanahan,1,31
+992,floor mat,spare seal included,Interior,Greenholt-Raynor,97,18
+993,spare tire,drain gas,Electrical,Casper Ernser and Reynolds,91,91
+994,vents,install new bolts,Interior,Conroy Huels and Corwin,1,42
+995,gas gauge,single item,Interior,Hane-Hoeger,11,45
+996,alarm,use contact cleaner,Interior,Weber-Braun,61,31
+997,wheel,housing may be cracked,A/C,Larkin and Sons,30,13
+998,door handle,Requires additional lining,Misc,Nolan Group,82,17
+999,grille,Unexposed Section,Powertrain,McClure Wisoky and Ratke,12,61
+1000,oil filter,spare seal included,Exterior,Romaguera-Fadel,87,47

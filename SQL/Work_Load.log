@@ -1,0 +1,57 @@
+
+SQL*Loader: Release 11.2.0.2.0 - Production on Thu Mar 15 19:32:38 2018
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   Work_Load.ctl
+Data File:      ..\CSVs\Work.csv
+  Bad File:     Work_Extract.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table WORK_FACT_TABLE, loaded from every logical record.
+Insert option in effect for this table: APPEND
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+WORK_ODOREADING                     FIRST     *   ,       CHARACTER            
+WORK_COST                            NEXT     *   ,       CHARACTER            
+WORK_NUMOFACTHOURS                   NEXT     *   ,       CHARACTER            
+CUST_ID                              NEXT     *   ,       CHARACTER            
+PARTS_ID                             NEXT     *   ,       CHARACTER            
+MAINTACT_ID                          NEXT     *   ,       CHARACTER            
+VEH_ID                               NEXT     *   ,       CHARACTER            
+TIME_ID                              NEXT     *   ,       DATE MM/DD/YYYY      
+
+Record 1: Rejected - Error on table WORK_FACT_TABLE, column WORK_ODOREADING.
+ORA-01722: invalid number
+
+
+Table WORK_FACT_TABLE:
+  1000 Rows successfully loaded.
+  1 Row not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 132096 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:          1001
+Total logical records rejected:         1
+Total logical records discarded:        0
+
+Run began on Thu Mar 15 19:32:38 2018
+Run ended on Thu Mar 15 19:32:38 2018
+
+Elapsed time was:     00:00:00.10
+CPU time was:         00:00:00.03
